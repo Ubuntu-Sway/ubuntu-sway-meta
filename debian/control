@@ -2,7 +2,7 @@ Source: ubuntusway-meta
 Section: metapackages
 Priority: optional
 Maintainer: Aleksey Samoilov <samoilov.lex@gmail.com>
-Build-Depends: debhelper-compat (= 13)
+Build-Depends: debhelper-compat (= 13), germinate (>= 2.30)
 Standards-Version: 4.5.1
 Homepage: https://github.com/Ubuntu-Sway
 Rules-Requires-Root: no
