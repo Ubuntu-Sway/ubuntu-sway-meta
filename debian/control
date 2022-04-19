@@ -8,8 +8,9 @@ Homepage: https://github.com/Ubuntu-Sway
 Rules-Requires-Root: no
 
 Package: ubuntusway-desktop
-Architecture: amd64 arm64 mips64el ppc64el s390x
+Architecture: amd64 arm64
 Depends: ${misc:Depends}, ${germinate:Depends}
+Recommends: ${misc:Depends}, ${germinate:Depends}
 Description: Complete desktop of Ubuntu Sway
  This metapackage installs the complete Ubuntu Sway desktop.
  .
