@@ -1,0 +1,17 @@
+Source: ubuntusway-meta
+Section: metapackages
+Priority: optional
+Maintainer: Aleksey Samoilov <samoilov.lex@gmail.com>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.5.1
+Homepage: https://github.com/Ubuntu-Sway
+Rules-Requires-Root: no
+
+Package: ubuntusway-desktop
+Architecture: amd64 arm64 mips64el ppc64el s390x
+Depends: ${misc:Depends}, ${germinate:Depends}
+Description: Complete desktop of Ubuntu Sway
+ This metapackage installs the complete Ubuntu Sway desktop.
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.

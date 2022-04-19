@@ -1,0 +1,5 @@
+ubuntusway-meta (1.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Tue, 19 Apr 2022 10:25:38 +0400

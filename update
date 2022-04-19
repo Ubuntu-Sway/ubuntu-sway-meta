@@ -1,0 +1,15 @@
+#! /bin/sh
+
+if ! which dch >/dev/null; then
+	echo >&2 "Please install devscripts."
+	exit 1
+fi
+
+if ! which debootstrap >/dev/null; then
+	echo >&2 "Please install debootstrap."
+	exit 1
+fi
+
+exec germinate-update-metapackage --vcs
+
+dch -r \\"\\"
