@@ -1,3 +1,35 @@
+ubuntusway-meta (1.5) jammy; urgency=medium
+
+  * Refreshed dependencies
+  * Added flatpak to desktop
+  * Added mpv to desktop-recommends
+  * Added qtwayland5 to desktop
+  * Added snapd to desktop-recommends
+  * Added zathura-cb to desktop-recommends
+  * Added zathura-djvu to desktop-recommends
+  * Removed ubuntusway-environment from desktop
+  * Refreshed dependencies
+  * Added grim to desktop
+  * Added grimshot to desktop
+  * Added kanshi to desktop
+  * Added khal to desktop
+  * Added light to desktop
+  * Added policykit-1-gnome to desktop
+  * Added qt5ct to desktop
+  * Added slurp to desktop
+  * Added waybar to desktop
+  * Added wf-recorder to desktop
+  * Added wl-clipboard to desktop
+  * Added wob to desktop
+  * Added wofi to desktop
+  * Manualy added ubuntusway-desktop-settings to desktop
+  * Manualy added ubuntusway-environment to desktop
+  * Manualy added bash-completion to desktop
+  * Manualy added command-not-found to desktop
+  * Mannualy removed snapd from desktop-recommends
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Wed, 20 Apr 2022 19:22:42 +0400
+
 ubuntusway-meta (1.3) jammy; urgency=medium
 
   * Refreshed dependencies

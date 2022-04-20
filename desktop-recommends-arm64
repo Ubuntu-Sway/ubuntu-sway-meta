@@ -40,6 +40,7 @@ libreoffice-impress
 libreoffice-style-yaru
 libreoffice-writer
 mesa-utils
+mpv
 neofetch
 packagekit
 pcmciautils
@@ -66,4 +67,6 @@ wayvnc
 wdisplays
 wev
 zathura
+zathura-cb
+zathura-djvu
 zathura-pdf-poppler
