@@ -10,7 +10,7 @@ Rules-Requires-Root: no
 Package: ubuntusway-desktop
 Architecture: any
 Depends: ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Depends}
+Recommends: ${germinate:Recommends}
 Description: Complete desktop of Ubuntu Sway
  This metapackage installs the complete Ubuntu Sway desktop.
  .
