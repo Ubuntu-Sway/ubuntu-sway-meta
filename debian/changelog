@@ -1,3 +1,39 @@
+ubuntusway-meta (1.3) jammy; urgency=medium
+
+  * Refreshed dependencies
+  * Added drm-info to desktop-recommends
+  * Added fonts-liberation2 to desktop-recommends
+  * Added fonts-noto-color-emoji to desktop-recommends
+  * Added fonts-opensymbol to desktop-recommends
+  * Added gamemode to desktop-recommends [amd64]
+  * Added gstreamer1.0-alsa to desktop
+  * Added gstreamer1.0-plugins-base to desktop
+  * Added gstreamer1.0-plugins-good to desktop
+  * Added gstreamer1.0-pulseaudio to desktop
+  * Added inxi to desktop-recommends
+  * Added pulsemixer to desktop-recommends
+  * Added qt5-style-kvantum to desktop
+  * Added sway to desktop
+  * Added swaybg to desktop
+  * Added swayidle to desktop
+  * Added swaylock to desktop
+  * Added thermald to desktop-recommends [amd64]
+  * Added tlp to desktop-recommends [amd64]
+  * Added wev to desktop-recommends
+  * Removed mpv from desktop-recommends
+  * Moved htop to desktop-recommends
+  * Moved neofetch to desktop-recommends
+  * Moved pulseaudio-module-bluetooth to desktop-recommends
+  * Refreshed dependencies
+  * Added falkon to desktop
+  * Added mesa-utils to desktop-recommends
+  * Added qutebrowser to desktop
+  * Added vulkan-tools to desktop-recommends
+  * Added waypipe to desktop-recommends
+  * Added wayvnc to desktop-recommends
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Wed, 20 Apr 2022 12:26:34 +0400
+
 ubuntusway-meta (1.1) jammy; urgency=medium
 
   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
