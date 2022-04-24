@@ -1,4 +1,4 @@
-ubuntusway-meta (1.5) jammy; urgency=medium
+ubuntusway-meta (1.5.1) jammy; urgency=medium
 
   * Refreshed dependencies
   * Added flatpak to desktop

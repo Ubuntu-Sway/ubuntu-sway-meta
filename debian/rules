@@ -1,6 +1,3 @@
-#!/usr/bin/make -f
-
-
+#! /usr/bin/make -f
 %:
-	dh $@ --with-germinate
-
+	dh $@ --with germinate

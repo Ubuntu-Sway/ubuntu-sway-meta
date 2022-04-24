@@ -42,6 +42,7 @@ qt5ct
 qtwayland5
 qutebrowser
 rfkill
+rsync
 sddm
 slurp
 software-properties-gtk
