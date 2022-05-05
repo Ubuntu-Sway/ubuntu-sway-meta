@@ -1,12 +1,9 @@
 alsa-base
 alsa-utils
 anacron
-bash-completion
 bc
 breeze-cursor-theme
 ca-certificates
-command-not-found
-falkon
 flatpak
 fonts-dejavu-core
 fonts-font-awesome
@@ -42,8 +39,6 @@ qt5ct
 qtwayland5
 qutebrowser
 rfkill
-rsync
-sddm
 slurp
 software-properties-gtk
 spice-vdagent
@@ -51,8 +46,6 @@ sway
 swaybg
 swayidle
 swaylock
-ubuntusway-environment
-ubuntusway-default-settings
 ubuntu-drivers-common
 unzip
 usb-modeswitch
