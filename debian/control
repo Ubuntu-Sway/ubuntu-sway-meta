@@ -16,3 +16,10 @@ Description: Complete desktop of Ubuntu Sway
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
+ 
+Package: ubuntusway-live
+Architecture: any
+Depends: ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: ubuntusway Live Settings
+ Configuration for the Ubuntu Sway live session
