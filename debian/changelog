@@ -1,4 +1,4 @@
-ubuntusway-meta (1.5.2) UNRELEASED; urgency=medium
+ubuntusway-meta (1.5.3) UNRELEASED; urgency=medium
 
   * Refreshed dependencies
   * Added greetd to desktop [amd64]
@@ -11,8 +11,26 @@ ubuntusway-meta (1.5.2) UNRELEASED; urgency=medium
   * Removed sddm from desktop
   * Removed ubuntusway-default-settings from desktop [arm64]
   * Removed ubuntusway-environment from desktop [arm64]
+  * Refreshed dependencies
+  * Added autotiling to desktop [amd64]
+  * Added azote to desktop
+  * Added cliphist to desktop
+  * Added file-roller to desktop-recommends
+  * Added nwg-drawer to desktop
+  * Added nwg-wrapper to desktop [amd64]
+  * Added pavucontrol to desktop
+  * Added playerctl to desktop
+  * Added pluma to desktop-recommends
+  * Added poweralertd to desktop
+  * Added python-is-python3 to desktop
+  * Added python3-requests to desktop
+  * Added swayimg to desktop-recommends
+  * Added thunar to desktop-recommends
+  * Added ubuntusway-default-settings to desktop [arm64]
+  * Removed flameshot from desktop-recommends
+  * Removed imv from desktop-recommends
 
- -- Aleksey Samoilov <samoilov.lex@gmail.com>  Thu, 05 May 2022 11:46:22 +0400
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Thu, 19 May 2022 22:39:57 +0400
 
 ubuntusway-meta (1.5.1) jammy; urgency=medium
 

@@ -6,7 +6,7 @@ cups-bsd
 cups-client
 cups-filters
 drm-info
-flameshot
+file-roller
 fonts-arphic-ukai
 fonts-arphic-uming
 fonts-indic
@@ -29,7 +29,6 @@ fwupd-signed
 gimp
 hplip
 htop
-imv
 inxi
 kerneloops
 laptop-detect
@@ -44,6 +43,7 @@ mpv
 neofetch
 packagekit
 pcmciautils
+pluma
 policykit-desktop-privileges
 printer-driver-brlaser
 printer-driver-c2esp
@@ -59,7 +59,9 @@ pulsemixer
 simple-scan
 snapd
 suckless-tools
+swayimg
 synaptic
+thunar
 thunderbird
 update-notifier
 vulkan-tools

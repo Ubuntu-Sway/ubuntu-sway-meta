@@ -1,9 +1,11 @@
 alsa-base
 alsa-utils
 anacron
+azote
 bc
 breeze-cursor-theme
 ca-certificates
+cliphist
 flatpak
 fonts-dejavu-core
 fonts-font-awesome
@@ -29,11 +31,17 @@ mobile-broadband-provider-info
 modemmanager
 network-manager
 network-manager-gnome
+nwg-drawer
 openprinting-ppds
+pavucontrol
+playerctl
 policykit-1-gnome
+poweralertd
 printer-driver-gutenprint
 printer-driver-pnm2ppa
 pulseaudio
+python-is-python3
+python3-requests
 qt5-style-kvantum
 qt5ct
 qtwayland5
@@ -47,6 +55,7 @@ swaybg
 swayidle
 swaylock
 ubuntu-drivers-common
+ubuntusway-default-settings
 unzip
 usb-modeswitch
 waybar
