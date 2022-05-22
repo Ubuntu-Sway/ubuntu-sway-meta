@@ -60,7 +60,6 @@ printer-driver-splix
 pulseaudio-module-bluetooth
 pulsemixer
 simple-scan
-snapd
 suckless-tools
 swayimg
 synaptic
@@ -74,6 +73,7 @@ waypipe
 wayvnc
 wdisplays
 wev
+wlr-randr
 zathura
 zathura-cb
 zathura-djvu

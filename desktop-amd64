@@ -12,6 +12,7 @@ fonts-dejavu-core
 fonts-font-awesome
 fonts-freefont-ttf
 foomatic-db-compressed-ppds
+foot
 ghostscript-x
 greetd
 greetd-tuigreet
@@ -27,11 +28,14 @@ inputattach
 kanshi
 khal
 language-selector-common
+libglib2.0-bin
 libsasl2-modules
 libu2f-udev
 light
+mako-notifier
 mobile-broadband-provider-info
 modemmanager
+neovim
 network-manager
 network-manager-gnome
 nwg-drawer
@@ -60,7 +64,6 @@ swayidle
 swaylock
 ubuntu-drivers-common
 ubuntusway-default-settings
-ubuntusway-environment
 unzip
 usb-modeswitch
 waybar
@@ -71,8 +74,11 @@ wob
 wofi
 wpasupplicant
 wvdial
+xdg-desktop-portal-wlr
 xkb-data
 xorg
+xsettingsd
+xwayland
 yaru-theme-gtk
 yaru-theme-icon
 zip

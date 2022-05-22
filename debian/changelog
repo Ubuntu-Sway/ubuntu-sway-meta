@@ -1,4 +1,18 @@
-ubuntusway-meta (1.5.3) UNRELEASED; urgency=medium
+ubuntusway-meta (1.7) jammy; urgency=medium
+
+  * Refreshed dependencies
+  * Added foot to desktop [arm64]
+  * Added libglib2.0-bin to desktop [arm64]
+  * Added mako-notifier to desktop [arm64]
+  * Added neovim to desktop [arm64]
+  * Added wlr-randr to desktop-recommends [arm64]
+  * Added xdg-desktop-portal-wlr to desktop [arm64]
+  * Added xsettingsd to desktop [arm64]
+  * Added xwayland to desktop [arm64]
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sun, 22 May 2022 16:53:42 +0400
+
+ubuntusway-meta (1.6) jammy; urgency=medium
 
   * Refreshed dependencies
   * Added greetd to desktop [amd64]
@@ -28,9 +42,9 @@ ubuntusway-meta (1.5.3) UNRELEASED; urgency=medium
   * Added thunar to desktop-recommends
   * Added ubuntusway-default-settings to desktop [arm64]
   * Removed flameshot from desktop-recommends
-  * Removed imv from desktop-recommends
+  * Removed imv from desktop-recommends 
 
- -- Aleksey Samoilov <samoilov.lex@gmail.com>  Thu, 19 May 2022 22:39:57 +0400
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Fri, 20 May 2022 10:03:00 +0400
 
 ubuntusway-meta (1.5.1) jammy; urgency=medium
 
