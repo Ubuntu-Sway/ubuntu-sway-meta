@@ -7,6 +7,7 @@ bc
 breeze-cursor-theme
 ca-certificates
 cliphist
+firefox
 flatpak
 fonts-dejavu-core
 fonts-font-awesome
@@ -53,7 +54,6 @@ python3-requests
 qt5-style-kvantum
 qt5ct
 qtwayland5
-qutebrowser
 rfkill
 slurp
 software-properties-gtk
