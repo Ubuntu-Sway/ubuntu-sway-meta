@@ -1,11 +1,38 @@
-ubuntusway-meta (1.8) UNRELEASED; urgency=medium
+ubuntusway-meta (1.10) UNRELEASED; urgency=medium
 
   * Refreshed dependencies
   * Added firefox to desktop
   * Added snapd to desktop-recommends
   * Removed qutebrowser from desktop
+  * Refreshed dependencies
+  * Added genisoimage to desktop
+  * Added nwg-wrapper to desktop [arm64]
+  * Added xz-utils to desktop
+  * Removed btrfs-progs from live
+  * Removed fonts-freefont-ttf from desktop
+  * Removed fonts-indic from desktop-recommends
+  * Removed fonts-khmeros-core from desktop-recommends
+  * Removed fonts-lao from desktop-recommends
+  * Removed fonts-liberation from desktop-recommends
+  * Removed fonts-lklug-sinhala from desktop-recommends
+  * Removed fonts-sil-abyssinica from desktop-recommends
+  * Removed fonts-thai-tlwg from desktop-recommends
+  * Removed fonts-tibetan-machine from desktop-recommends
+  * Removed jfsutils from live
+  * Removed language-selector-common from desktop
+  * Removed lvm2 from live
+  * Removed memtest86+ from desktop-recommends [amd64]
+  * Moved fwupd to desktop
+  * Moved fwupd-signed to desktop
+  * Refreshed dependencies
+  * Added btrfs-progs to live
+  * Added fwupd-signed to live
+  * Added language-selector-common to desktop
+  * Removed genisoimage from desktop
+  * Moved fwupd to desktop-recommends
+  * Moved fwupd-signed to desktop-recommends
 
- -- Aleksey Samoilov <samoilov.lex@gmail.com>  Mon, 23 May 2022 21:07:42 +0400
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sat, 28 May 2022 17:02:31 +0400
 
 ubuntusway-meta (1.7) jammy; urgency=medium
 

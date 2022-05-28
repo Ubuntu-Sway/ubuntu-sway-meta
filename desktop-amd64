@@ -11,7 +11,6 @@ firefox
 flatpak
 fonts-dejavu-core
 fonts-font-awesome
-fonts-freefont-ttf
 foomatic-db-compressed-ppds
 foot
 ghostscript-x
@@ -79,6 +78,7 @@ xkb-data
 xorg
 xsettingsd
 xwayland
+xz-utils
 yaru-theme-gtk
 yaru-theme-icon
 zip
