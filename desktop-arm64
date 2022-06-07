@@ -1,6 +1,7 @@
 alsa-base
 alsa-utils
 anacron
+autotiling
 azote
 bc
 breeze-cursor-theme
@@ -13,6 +14,8 @@ fonts-font-awesome
 foomatic-db-compressed-ppds
 foot
 ghostscript-x
+greetd
+greetd-tuigreet
 grim
 grimshot
 gstreamer1.0-alsa
