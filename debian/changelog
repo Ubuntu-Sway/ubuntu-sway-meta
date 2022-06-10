@@ -1,3 +1,13 @@
+ubuntusway-meta (1.14) jammy; urgency=medium
+
+  * Refreshed dependencies
+  * Added fonts-hack to desktop
+  * Added pcmanfm-gtk3 to desktop-recommends
+  * Removed network-manager-gnome from desktop
+  * Removed thunar from desktop-recommends
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Fri, 10 Jun 2022 12:57:39 +0400
+
 ubuntusway-meta (1.12) jammy; urgency=medium
 
   * Refreshed dependencies

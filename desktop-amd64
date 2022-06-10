@@ -11,6 +11,7 @@ firefox
 flatpak
 fonts-dejavu-core
 fonts-font-awesome
+fonts-hack
 foomatic-db-compressed-ppds
 foot
 ghostscript-x
@@ -38,7 +39,6 @@ mobile-broadband-provider-info
 modemmanager
 neovim
 network-manager
-network-manager-gnome
 nwg-drawer
 nwg-look
 nwg-wrapper

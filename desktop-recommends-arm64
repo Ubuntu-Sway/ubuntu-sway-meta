@@ -34,6 +34,7 @@ mesa-utils
 mpv
 neofetch
 packagekit
+pcmanfm-gtk3
 pcmciautils
 pluma
 policykit-desktop-privileges
@@ -52,7 +53,6 @@ simple-scan
 suckless-tools
 swayimg
 synaptic
-thunar
 thunderbird
 update-notifier
 vulkan-tools

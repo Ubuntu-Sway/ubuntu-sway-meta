@@ -36,6 +36,7 @@ mesa-utils
 mpv
 neofetch
 packagekit
+pcmanfm-gtk3
 pcmciautils
 pluma
 policykit-desktop-privileges
@@ -55,7 +56,6 @@ suckless-tools
 swayimg
 synaptic
 thermald
-thunar
 thunderbird
 tlp
 update-notifier
