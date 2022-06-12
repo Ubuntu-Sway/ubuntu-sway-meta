@@ -7,6 +7,7 @@ cups-client
 cups-filters
 drm-info
 engrampa
+flatpak
 fonts-arphic-ukai
 fonts-arphic-uming
 fonts-kacst-one
@@ -34,8 +35,10 @@ mesa-utils
 mpv
 neofetch
 packagekit
+pavucontrol
 pcmanfm-gtk3
 pcmciautils
+playerctl
 pluma
 policykit-desktop-privileges
 printer-driver-brlaser
@@ -50,6 +53,7 @@ printer-driver-splix
 pulseaudio-module-bluetooth
 pulsemixer
 simple-scan
+software-properties-gtk
 suckless-tools
 swayimg
 synaptic

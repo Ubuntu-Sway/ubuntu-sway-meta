@@ -7,8 +7,8 @@ bc
 breeze-cursor-theme
 ca-certificates
 cliphist
-dex
 firefox
+flatpak
 fonts-dejavu-core
 fonts-font-awesome
 fonts-hack
@@ -43,6 +43,8 @@ nwg-drawer
 nwg-look
 nwg-wrapper
 openprinting-ppds
+pavucontrol
+playerctl
 poweralertd
 printer-driver-gutenprint
 printer-driver-pnm2ppa
@@ -54,6 +56,7 @@ qt5ct
 qtwayland5
 rfkill
 slurp
+software-properties-gtk
 spice-vdagent
 sway
 swaybg

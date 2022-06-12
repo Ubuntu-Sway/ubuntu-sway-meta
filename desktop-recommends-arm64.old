@@ -1,4 +1,3 @@
-acpi-support
 avahi-daemon
 bluez
 bluez-cups
@@ -8,7 +7,6 @@ cups-client
 cups-filters
 drm-info
 engrampa
-flatpak
 fonts-arphic-ukai
 fonts-arphic-uming
 fonts-kacst-one
@@ -20,7 +18,6 @@ fonts-sil-padauk
 fonts-ubuntu
 fwupd
 fwupd-signed
-gamemode
 gimp
 hplip
 htop
@@ -37,10 +34,8 @@ mesa-utils
 mpv
 neofetch
 packagekit
-pavucontrol
 pcmanfm-gtk3
 pcmciautils
-playerctl
 pluma
 policykit-desktop-privileges
 printer-driver-brlaser
@@ -55,13 +50,10 @@ printer-driver-splix
 pulseaudio-module-bluetooth
 pulsemixer
 simple-scan
-software-properties-gtk
 suckless-tools
 swayimg
 synaptic
-thermald
 thunderbird
-tlp
 update-notifier
 vulkan-tools
 waypipe
