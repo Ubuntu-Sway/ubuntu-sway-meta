@@ -13,3 +13,7 @@ fi
 exec germinate-update-metapackage --vcs
 
 dch -r \\"\\"
+
+for i in *.old; do
+	rm -f $i;
+done
