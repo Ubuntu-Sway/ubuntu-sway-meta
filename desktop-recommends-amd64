@@ -8,6 +8,7 @@ cups-client
 cups-filters
 drm-info
 engrampa
+firefox
 flatpak
 fonts-arphic-ukai
 fonts-arphic-uming
@@ -22,10 +23,12 @@ fwupd
 fwupd-signed
 gamemode
 gimp
+gnome-packagekit
 hplip
 htop
 inxi
 kerneloops
+kitty
 laptop-detect
 libnss-mdns
 libreoffice-calc
@@ -33,6 +36,7 @@ libreoffice-gtk3
 libreoffice-impress
 libreoffice-style-yaru
 libreoffice-writer
+mate-calc
 mesa-utils
 mpv
 neofetch
@@ -54,14 +58,16 @@ printer-driver-sag-gdi
 printer-driver-splix
 pulseaudio-module-bluetooth
 pulsemixer
+qutebrowser
+ranger
 simple-scan
 software-properties-gtk
 suckless-tools
 swayimg
-synaptic
 thermald
 thunderbird
 tlp
+transmission
 update-notifier
 vulkan-tools
 waypipe
