@@ -1,4 +1,4 @@
-#! /bin/sh
+#! /bin/bash
 
 if ! which dch >/dev/null; then
 	echo >&2 "Please install devscripts."
@@ -13,7 +13,3 @@ fi
 exec germinate-update-metapackage --vcs
 
 dch -r \\"\\"
-
-for i in *.old; do
-	rm $i;
-done
