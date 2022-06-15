@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /bin/sh
 
 if ! which dch >/dev/null; then
 	echo >&2 "Please install devscripts."
