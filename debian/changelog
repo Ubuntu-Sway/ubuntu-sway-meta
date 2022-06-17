@@ -1,4 +1,4 @@
-ubuntusway-meta (1.15~jamnb) UNRELEASED; urgency=medium
+ubuntusway-meta (1.15~jamnc) UNRELEASED; urgency=medium
 
   * Refreshed dependencies
   * Added dex to desktop
@@ -18,8 +18,41 @@ ubuntusway-meta (1.15~jamnb) UNRELEASED; urgency=medium
   * Refreshed dependencies
   * Removed foot from desktop
   * Moved kitty to desktop
+  * Refreshed dependencies
+  * Added bind9-dnsutils to standard
+  * Added fonts-freefont-ttf to desktop
+  * Added fonts-indic to desktop-recommends
+  * Added fonts-khmeros-core to desktop-recommends
+  * Added fonts-lao to desktop-recommends
+  * Added fonts-liberation to desktop-recommends
+  * Added fonts-lklug-sinhala to desktop-recommends
+  * Added fonts-sil-abyssinica to desktop-recommends
+  * Added fonts-thai-tlwg to desktop-recommends
+  * Added fonts-tibetan-machine to desktop-recommends
+  * Added jfsutils to live
+  * Added lvm2 to live
+  * Added media-types to standard
+  * Added memtest86+ to desktop-recommends [amd64]
+  * Added nftables to standard
+  * Added plymouth-theme-ubuntu-text to standard-recommends
+  * Added ubuntu-minimal to minimal
+  * Added ubuntu-standard to standard
+  * Added update-manager-core to standard-recommends
+  * Added usrmerge to minimal-recommends
+  * Added xz-utils to standard
+  * Removed cryptsetup from standard-recommends
+  * Removed dnsutils from standard
+  * Removed fwupd-signed from live
+  * Removed jfsutils from standard-recommends
+  * Removed ltrace from standard
+  * Removed lvm2 from standard-recommends
+  * Removed mime-support from standard
+  * Removed mlocate from standard-recommends
+  * Removed xorg from desktop
+  * Removed xz-utils from desktop
+  * Moved iptables to standard-recommends
 
- -- root <root@1efe7349887a>  Fri, 17 Jun 2022 13:43:09 +0000
+ -- root <root@89b392dc40bf>  Fri, 17 Jun 2022 21:22:30 +0000
 
 ubuntusway-meta (1.15~jammy) jammy; urgency=medium
 

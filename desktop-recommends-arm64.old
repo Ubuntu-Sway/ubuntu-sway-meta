@@ -1,4 +1,3 @@
-acpi-support
 avahi-daemon
 bluez
 bluez-cups
@@ -12,24 +11,15 @@ firefox
 flatpak
 fonts-arphic-ukai
 fonts-arphic-uming
-fonts-indic
 fonts-kacst-one
-fonts-khmeros-core
-fonts-lao
-fonts-liberation
 fonts-liberation2
-fonts-lklug-sinhala
 fonts-noto-cjk
 fonts-noto-color-emoji
 fonts-opensymbol
-fonts-sil-abyssinica
 fonts-sil-padauk
-fonts-thai-tlwg
-fonts-tibetan-machine
 fonts-ubuntu
 fwupd
 fwupd-signed
-gamemode
 gimp
 gnome-packagekit
 hplip
@@ -44,7 +34,6 @@ libreoffice-impress
 libreoffice-style-yaru
 libreoffice-writer
 mate-calc
-memtest86+
 mesa-utils
 mpv
 neofetch
@@ -72,9 +61,7 @@ simple-scan
 software-properties-gtk
 suckless-tools
 swayimg
-thermald
 thunderbird
-tlp
 transmission
 update-notifier
 vulkan-tools

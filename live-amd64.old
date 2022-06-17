@@ -5,6 +5,7 @@ cifs-utils
 discover
 dmraid
 expect
+fwupd-signed
 gparted
 grub-pc
 hunspell-de-at-frami
@@ -21,7 +22,6 @@ hunspell-it
 hunspell-pt-br
 hunspell-pt-pt
 hunspell-ru
-jfsutils
 language-pack-de
 language-pack-en
 language-pack-es
@@ -38,7 +38,6 @@ language-pack-it
 language-pack-pt
 language-pack-ru
 language-pack-zh-hans
-lvm2
 mokutil
 os-prober
 reiserfsprogs

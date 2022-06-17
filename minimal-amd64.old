@@ -28,7 +28,6 @@ sudo
 tzdata
 ubuntu-advantage-tools
 ubuntu-keyring
-ubuntu-minimal
 udev
 vim-tiny
 whiptail

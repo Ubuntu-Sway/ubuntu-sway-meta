@@ -10,6 +10,7 @@ cliphist
 dex
 fonts-dejavu-core
 fonts-font-awesome
+fonts-freefont-ttf
 fonts-hack
 foomatic-db-compressed-ppds
 ghostscript-x
@@ -72,10 +73,8 @@ wpasupplicant
 wvdial
 xdg-desktop-portal-wlr
 xkb-data
-xorg
 xsettingsd
 xwayland
-xz-utils
 yaru-theme-gtk
 yaru-theme-icon
 zip
