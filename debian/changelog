@@ -1,23 +1,6 @@
-ubuntusway-meta (1.15~jamnc) UNRELEASED; urgency=medium
+ubuntusway-meta (1.19~jammy) jammy; urgency=medium
 
-  * Refreshed dependencies
-  * Added dex to desktop
-  * Moved flatpak to desktop-recommends
-  * Moved pavucontrol to desktop-recommends
-  * Moved playerctl to desktop-recommends
-  * Moved software-properties-gtk to desktop-recommends
-  * Refreshed dependencies
-  * Added gnome-packagekit to desktop-recommends
-  * Added kitty to desktop-recommends
-  * Added mate-calc to desktop-recommends
-  * Added qutebrowser to desktop-recommends
-  * Added ranger to desktop-recommends
-  * Added transmission to desktop-recommends
-  * Removed synaptic from desktop-recommends
-  * Moved firefox to desktop-recommends
-  * Refreshed dependencies
-  * Removed foot from desktop
-  * Moved kitty to desktop
+  [ root ]
   * Refreshed dependencies
   * Added bind9-dnsutils to standard
   * Added fonts-freefont-ttf to desktop
@@ -52,7 +35,10 @@ ubuntusway-meta (1.15~jamnc) UNRELEASED; urgency=medium
   * Removed xz-utils from desktop
   * Moved iptables to standard-recommends
 
- -- root <root@89b392dc40bf>  Fri, 17 Jun 2022 21:22:30 +0000
+  [ Aleksey Samoilov ]
+  * Update changelog
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sat, 18 Jun 2022 01:24:14 +0400
 
 ubuntusway-meta (1.15~jammy) jammy; urgency=medium
 
