@@ -1,4 +1,4 @@
-ubuntusway-meta (1.15~jamna) UNRELEASED; urgency=medium
+ubuntusway-meta (1.15~jamnb) UNRELEASED; urgency=medium
 
   * Refreshed dependencies
   * Added dex to desktop
@@ -15,8 +15,11 @@ ubuntusway-meta (1.15~jamna) UNRELEASED; urgency=medium
   * Added transmission to desktop-recommends
   * Removed synaptic from desktop-recommends
   * Moved firefox to desktop-recommends
+  * Refreshed dependencies
+  * Removed foot from desktop
+  * Moved kitty to desktop
 
- -- root <root@61ae5ecb34a9>  Wed, 15 Jun 2022 18:29:15 +0000
+ -- root <root@1efe7349887a>  Fri, 17 Jun 2022 13:43:09 +0000
 
 ubuntusway-meta (1.15~jammy) jammy; urgency=medium
 

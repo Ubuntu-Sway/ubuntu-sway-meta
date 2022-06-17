@@ -12,6 +12,7 @@ fonts-dejavu-core
 fonts-font-awesome
 fonts-hack
 foomatic-db-compressed-ppds
+foot
 ghostscript-x
 greetd
 greetd-tuigreet
@@ -26,7 +27,6 @@ gvfs-fuse
 inputattach
 kanshi
 khal
-kitty
 language-selector-common
 libglib2.0-bin
 libsasl2-modules

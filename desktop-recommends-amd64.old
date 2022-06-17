@@ -1,3 +1,4 @@
+acpi-support
 avahi-daemon
 bluez
 bluez-cups
@@ -20,12 +21,14 @@ fonts-sil-padauk
 fonts-ubuntu
 fwupd
 fwupd-signed
+gamemode
 gimp
 gnome-packagekit
 hplip
 htop
 inxi
 kerneloops
+kitty
 laptop-detect
 libnss-mdns
 libreoffice-calc
@@ -61,7 +64,9 @@ simple-scan
 software-properties-gtk
 suckless-tools
 swayimg
+thermald
 thunderbird
+tlp
 transmission
 update-notifier
 vulkan-tools
