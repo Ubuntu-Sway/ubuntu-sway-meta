@@ -1,10 +1,14 @@
-ubuntusway-meta (1.19~jammz) UNRELEASED; urgency=medium
+ubuntusway-meta (1.20~jammy) jammy; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Added foot to desktop
   * Moved kitty to desktop-recommends
 
- -- root <root@df25254a569f>  Sat, 18 Jun 2022 17:28:31 +0000
+  [ Aleksey Samoilov ]
+  * Back to Foot as default terminal emulator
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sat, 18 Jun 2022 21:30:04 +0400
 
 ubuntusway-meta (1.19~jammy) jammy; urgency=medium
 
