@@ -1,3 +1,11 @@
+ubuntusway-meta (1.19~jammz) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added foot to desktop
+  * Moved kitty to desktop-recommends
+
+ -- root <root@df25254a569f>  Sat, 18 Jun 2022 17:28:31 +0000
+
 ubuntusway-meta (1.19~jammy) jammy; urgency=medium
 
   [ root ]
