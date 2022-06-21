@@ -1,3 +1,10 @@
+ubuntusway-meta (1.20~jammz) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added wlogout to desktop
+
+ -- root <root@4afc1c08ed92>  Tue, 21 Jun 2022 14:14:47 +0000
+
 ubuntusway-meta (1.20~jammy) jammy; urgency=medium
 
   [ root ]
