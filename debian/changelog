@@ -1,3 +1,13 @@
+ubuntusway-meta (1.21~jammz) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added ubuntusway-artwork to desktop
+  * Removed qt5-style-kvantum from desktop
+  * Removed yaru-theme-gtk from desktop
+  * Removed yaru-theme-icon from desktop
+
+ -- root <root@c7f793f92742>  Tue, 21 Jun 2022 17:28:05 +0000
+
 ubuntusway-meta (1.21~jammy) jammy; urgency=medium
 
   [ root ]

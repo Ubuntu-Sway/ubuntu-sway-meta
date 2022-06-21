@@ -49,7 +49,6 @@ printer-driver-pnm2ppa
 pulseaudio
 python-is-python3
 python3-requests
-qt5-style-kvantum
 qt5ct
 qtwayland5
 rfkill
@@ -60,6 +59,7 @@ swaybg
 swayidle
 swaylock
 ubuntu-drivers-common
+ubuntusway-artwork
 ubuntusway-default-settings
 unzip
 usb-modeswitch
@@ -76,6 +76,4 @@ xdg-desktop-portal-wlr
 xkb-data
 xsettingsd
 xwayland
-yaru-theme-gtk
-yaru-theme-icon
 zip
