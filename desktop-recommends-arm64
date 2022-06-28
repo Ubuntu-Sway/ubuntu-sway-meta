@@ -1,3 +1,4 @@
+audacious
 avahi-daemon
 bluez
 bluez-cups
@@ -45,6 +46,7 @@ libreoffice-writer
 mate-calc
 mesa-utils
 mpv
+musikcube
 neofetch
 packagekit
 pavucontrol
@@ -68,11 +70,11 @@ qutebrowser
 ranger
 simple-scan
 software-properties-gtk
-suckless-tools
 swayimg
 thunderbird
 transmission
 update-notifier
+usb-creator-gtk
 vulkan-tools
 waypipe
 wayvnc
