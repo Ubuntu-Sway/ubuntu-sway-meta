@@ -1,5 +1,6 @@
-ubuntusway-meta (1.21~jamnc) UNRELEASED; urgency=medium
+ubuntusway-meta (1.25~jammy) jammy; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Added ubuntusway-artwork to desktop
   * Removed qt5-style-kvantum from desktop
@@ -15,9 +16,9 @@ ubuntusway-meta (1.21~jamnc) UNRELEASED; urgency=medium
   * Removed grim from desktop
   * Removed suckless-tools from desktop-recommends
   * Refreshed dependencies
-  * Added ubuntusway-grub-theme to desktop
+  * Added ubuntusway-grub-theme to desktop 
 
- -- root <root@4085e712eef6>  Tue, 28 Jun 2022 20:38:44 +0000
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Wed, 29 Jun 2022 00:40:02 +0400
 
 ubuntusway-meta (1.21~jammy) jammy; urgency=medium
 
