@@ -1,4 +1,4 @@
-ubuntusway-meta (1.21~jamnb) UNRELEASED; urgency=medium
+ubuntusway-meta (1.21~jamnc) UNRELEASED; urgency=medium
 
   * Refreshed dependencies
   * Added ubuntusway-artwork to desktop
@@ -14,8 +14,10 @@ ubuntusway-meta (1.21~jamnb) UNRELEASED; urgency=medium
   * Added usb-creator-gtk to desktop-recommends
   * Removed grim from desktop
   * Removed suckless-tools from desktop-recommends
+  * Refreshed dependencies
+  * Added ubuntusway-grub-theme to desktop
 
- -- root <root@b1de17e0805a>  Tue, 28 Jun 2022 10:03:05 +0000
+ -- root <root@4085e712eef6>  Tue, 28 Jun 2022 20:38:44 +0000
 
 ubuntusway-meta (1.21~jammy) jammy; urgency=medium
 
