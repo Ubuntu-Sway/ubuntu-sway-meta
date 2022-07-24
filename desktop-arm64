@@ -44,7 +44,6 @@ nwg-wrapper
 openprinting-ppds
 plymouth-theme-ubuntusway-logo
 plymouth-theme-ubuntusway-text
-poweralertd
 printer-driver-gutenprint
 printer-driver-pnm2ppa
 pulseaudio
@@ -61,8 +60,8 @@ swayidle
 swaylock
 ubuntu-drivers-common
 ubuntusway-artwork
-ubuntusway-default-settings
 ubuntusway-grub-theme
+ubuntusway-rpi-default-settings
 unzip
 usb-modeswitch
 waybar
