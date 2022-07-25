@@ -1,12 +1,15 @@
-ubuntusway-meta (1.25~jammz) UNRELEASED; urgency=medium
+ubuntusway-meta (1.25~jamna) UNRELEASED; urgency=medium
 
   * Refreshed dependencies
   * Added ubuntusway-rpi-default-settings to desktop [arm64]
   * Removed firefox from desktop-recommends [arm64]
   * Removed poweralertd from desktop [arm64]
   * Removed ubuntusway-default-settings from desktop [arm64]
+  * Refreshed dependencies
+  * Added vlc to desktop-recommends [arm64]
+  * Removed mpv from desktop-recommends [arm64]
 
- -- root <root@e438228ad827>  Sun, 24 Jul 2022 11:25:02 +0000
+ -- root <root@9b37957184fa>  Mon, 25 Jul 2022 14:42:55 +0000
 
 ubuntusway-meta (1.25~jammy) jammy; urgency=medium
 

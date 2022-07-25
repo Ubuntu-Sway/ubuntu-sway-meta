@@ -44,7 +44,6 @@ libreoffice-style-yaru
 libreoffice-writer
 mate-calc
 mesa-utils
-mpv
 musikcube
 neofetch
 packagekit
@@ -74,6 +73,7 @@ thunderbird
 transmission
 update-notifier
 usb-creator-gtk
+vlc
 vulkan-tools
 waypipe
 wayvnc
