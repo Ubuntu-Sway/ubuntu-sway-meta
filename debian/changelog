@@ -1,4 +1,4 @@
-ubuntusway-meta (1.25~jamna) UNRELEASED; urgency=medium
+ubuntusway-meta (1.25~jamnb) UNRELEASED; urgency=medium
 
   * Refreshed dependencies
   * Added ubuntusway-rpi-default-settings to desktop [arm64]
@@ -8,8 +8,11 @@ ubuntusway-meta (1.25~jamna) UNRELEASED; urgency=medium
   * Refreshed dependencies
   * Added vlc to desktop-recommends [arm64]
   * Removed mpv from desktop-recommends [arm64]
+  * Refreshed dependencies
+  * Moved greetd to desktop-recommends
+  * Moved greetd-tuigreet to desktop-recommends
 
- -- root <root@9b37957184fa>  Mon, 25 Jul 2022 14:42:55 +0000
+ -- root <root@9aa3716bbad0>  Thu, 28 Jul 2022 16:44:50 +0000
 
 ubuntusway-meta (1.25~jammy) jammy; urgency=medium
 
