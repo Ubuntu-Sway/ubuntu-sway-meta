@@ -1,3 +1,9 @@
+ubuntusway-meta (1.28~kinetic) kinetic; urgency=medium
+
+  * Initial release
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Fri, 05 Aug 2022 13:38:40 +0400
+
 ubuntusway-meta (1.28~jammy) jammy; urgency=medium
 
   [ root ]
