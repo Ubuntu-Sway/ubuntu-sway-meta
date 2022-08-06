@@ -1,3 +1,11 @@
+ubuntusway-meta (1.28~kinetid) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Removed acpi-support from desktop-recommends [amd64]
+  * Removed ubuntusway-rpi-default-settings from desktop [arm64]
+
+ -- root <root@48244098939d>  Sat, 06 Aug 2022 11:11:58 +0000
+
 ubuntusway-meta (1.28~kinetic) kinetic; urgency=medium
 
   * Initial release
