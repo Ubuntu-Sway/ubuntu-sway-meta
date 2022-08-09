@@ -1,3 +1,10 @@
+ubuntusway-meta (1.28~jammz) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added ffmpeg to desktop
+
+ -- root <root@6310a74765d4>  Tue, 09 Aug 2022 17:24:38 +0000
+
 ubuntusway-meta (1.28~jammy) jammy; urgency=medium
 
   [ root ]
