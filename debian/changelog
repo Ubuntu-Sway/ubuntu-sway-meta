@@ -1,4 +1,4 @@
-ubuntusway-meta (1.29~kinetid) UNRELEASED; urgency=medium
+ubuntusway-meta (1.29~kinetie) UNRELEASED; urgency=medium
 
   * Refreshed dependencies
   * Added libspa-0.2-bluetooth to desktop-recommends
@@ -7,8 +7,10 @@ ubuntusway-meta (1.29~kinetid) UNRELEASED; urgency=medium
   * Removed gstreamer1.0-pulseaudio from desktop
   * Removed pulseaudio from desktop
   * Removed pulseaudio-module-bluetooth from desktop-recommends
+  * Refreshed dependencies
+  * Added qt6-wayland to desktop
 
- -- root <root@eb1c3f5e9e06>  Thu, 18 Aug 2022 08:24:10 +0000
+ -- root <root@88bcbee6b47d>  Thu, 18 Aug 2022 10:22:01 +0000
 
 ubuntusway-meta (1.29~kinetic) kinetic; urgency=medium
 
