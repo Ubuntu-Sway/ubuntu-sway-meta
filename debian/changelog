@@ -1,3 +1,15 @@
+ubuntusway-meta (1.29~kinetid) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added libspa-0.2-bluetooth to desktop-recommends
+  * Added pipewire-pulse to desktop
+  * Added ubuntusway-rpi-default-settings to desktop [arm64]
+  * Removed gstreamer1.0-pulseaudio from desktop
+  * Removed pulseaudio from desktop
+  * Removed pulseaudio-module-bluetooth from desktop-recommends
+
+ -- root <root@eb1c3f5e9e06>  Thu, 18 Aug 2022 08:24:10 +0000
+
 ubuntusway-meta (1.29~kinetic) kinetic; urgency=medium
 
   [ root ]

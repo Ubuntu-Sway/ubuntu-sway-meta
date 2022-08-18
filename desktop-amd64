@@ -19,7 +19,6 @@ grimshot
 gstreamer1.0-alsa
 gstreamer1.0-plugins-base
 gstreamer1.0-plugins-good
-gstreamer1.0-pulseaudio
 gvfs-backends
 gvfs-fuse
 inputattach
@@ -40,12 +39,12 @@ nwg-drawer
 nwg-look
 nwg-wrapper
 openprinting-ppds
+pipewire-pulse
 plymouth-theme-ubuntusway-logo
 plymouth-theme-ubuntusway-text
 poweralertd
 printer-driver-gutenprint
 printer-driver-pnm2ppa
-pulseaudio
 python-is-python3
 python3-requests
 qt5ct

@@ -46,6 +46,7 @@ libreoffice-gtk3
 libreoffice-impress
 libreoffice-style-yaru
 libreoffice-writer
+libspa-0.2-bluetooth
 mate-calc
 memtest86+
 mesa-utils
@@ -68,7 +69,6 @@ printer-driver-ptouch
 printer-driver-pxljr
 printer-driver-sag-gdi
 printer-driver-splix
-pulseaudio-module-bluetooth
 pulsemixer
 qutebrowser
 ranger
