@@ -1,5 +1,6 @@
-ubuntusway-meta (1.29~kinetig) UNRELEASED; urgency=medium
+ubuntusway-meta (1.33~kinetic) kinetic; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Added libspa-0.2-bluetooth to desktop-recommends
   * Added pipewire-pulse to desktop
@@ -15,7 +16,10 @@ ubuntusway-meta (1.29~kinetig) UNRELEASED; urgency=medium
   * Added nwg-displays to desktop
   * Removed wdisplays from desktop-recommends
 
- -- root <root@166a81e62151>  Tue, 06 Sep 2022 12:41:12 +0000
+  [ Aleksey Samoilov ]
+  * Replace wdisplays with nwg-displays
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Tue, 06 Sep 2022 16:45:59 +0400
 
 ubuntusway-meta (1.29~kinetic) kinetic; urgency=medium
 
