@@ -1,3 +1,10 @@
+ubuntusway-meta (1.33~kinetid) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added ubuntusway-welcome to desktop-recommends [amd64]
+
+ -- root <root@d464fce2a3f2>  Wed, 07 Sep 2022 06:45:42 +0000
+
 ubuntusway-meta (1.33~kinetic) kinetic; urgency=medium
 
   [ root ]
