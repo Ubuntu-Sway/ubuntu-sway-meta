@@ -54,6 +54,7 @@ rfkill
 slurp
 spice-vdagent
 sway
+sway-input-config
 swaybg
 swayidle
 swaylock
