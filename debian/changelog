@@ -1,9 +1,13 @@
-ubuntusway-meta (1.34~kinetid) UNRELEASED; urgency=medium
+ubuntusway-meta (1.35~kinetic) kinetic; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Added sway-input-config to desktop
 
- -- root <root@356257a3715e>  Sun, 25 Sep 2022 18:49:23 +0000
+  [ Aleksey Samoilov ]
+  * Update changelog
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Mon, 26 Sep 2022 00:13:15 +0400
 
 ubuntusway-meta (1.34~kinetic) kinetic; urgency=medium
 
