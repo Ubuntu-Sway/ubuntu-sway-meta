@@ -1,9 +1,13 @@
-ubuntusway-meta (1.35~kinetid) UNRELEASED; urgency=medium
+ubuntusway-meta (1.36~kinetic) kinetic; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Added flashfocus to desktop
 
- -- root <root@96458a039f31>  Fri, 30 Sep 2022 07:53:36 +0000
+  [ Aleksey Samoilov ]
+  * Update changelog
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Fri, 30 Sep 2022 11:55:23 +0400
 
 ubuntusway-meta (1.35~kinetic) kinetic; urgency=medium
 
