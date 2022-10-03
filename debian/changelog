@@ -1,9 +1,13 @@
-ubuntusway-meta (1.36~kinetid) UNRELEASED; urgency=medium
+ubuntusway-meta (1.37~kinetic) kinetic; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Removed breeze-cursor-theme from desktop
 
- -- root <root@7b12eda38562>  Mon, 03 Oct 2022 15:04:47 +0000
+  [ Aleksey Samoilov ]
+  * Update changelog
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Mon, 03 Oct 2022 19:05:40 +0400
 
 ubuntusway-meta (1.36~kinetic) kinetic; urgency=medium
 
