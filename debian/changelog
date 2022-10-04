@@ -1,9 +1,13 @@
-ubuntusway-meta (1.37~kinetid) UNRELEASED; urgency=medium
+ubuntusway-meta (1.38~kinetic) kinetic; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Added fonts-font-awesome-6 to desktop
 
- -- root <root@1aac55fd05b2>  Tue, 04 Oct 2022 15:19:44 +0000
+  [ Aleksey Samoilov ]
+  * Update changelog
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Tue, 04 Oct 2022 19:34:42 +0400
 
 ubuntusway-meta (1.37~kinetic) kinetic; urgency=medium
 
