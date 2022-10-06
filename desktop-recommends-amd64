@@ -75,10 +75,11 @@ ranger
 simple-scan
 software-properties-gtk
 swayimg
+systemd-oomd
 thermald
 thunderbird
 tlp
-transmission
+transmission-gtk
 ubuntusway-welcome
 update-notifier
 usb-creator-gtk

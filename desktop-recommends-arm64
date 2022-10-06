@@ -71,8 +71,9 @@ ranger
 simple-scan
 software-properties-gtk
 swayimg
+systemd-oomd
 thunderbird
-transmission
+transmission-gtk
 update-notifier
 usb-creator-gtk
 vlc
