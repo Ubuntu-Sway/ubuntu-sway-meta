@@ -52,6 +52,7 @@ qt5ct
 qt6-wayland
 qtwayland5
 rfkill
+rofi-wayland
 slurp
 spice-vdagent
 sway
@@ -72,7 +73,6 @@ wireplumber
 wl-clipboard
 wlogout
 wob
-wofi
 wpasupplicant
 wvdial
 xdg-desktop-portal-wlr

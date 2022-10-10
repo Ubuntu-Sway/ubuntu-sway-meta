@@ -1,3 +1,12 @@
+ubuntusway-meta (1.39~kinetid) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added lximage-qt to desktop-recommends
+  * Added rofi-wayland to desktop
+  * Removed wofi from desktop
+
+ -- root <root@04b7a5f1d222>  Mon, 10 Oct 2022 09:15:43 +0000
+
 ubuntusway-meta (1.39~kinetic) kinetic; urgency=medium
 
   [ root ]
