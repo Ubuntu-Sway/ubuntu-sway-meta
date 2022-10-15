@@ -1,5 +1,6 @@
-ubuntusway-meta (1.40~kinetid) UNRELEASED; urgency=medium
+ubuntusway-meta (1.41~kinetic) kinetic; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Added apt-xapian-index to desktop-recommends
   * Added avahi-autoipd to desktop-recommends
@@ -17,7 +18,10 @@ ubuntusway-meta (1.40~kinetid) UNRELEASED; urgency=medium
   * Added xdg-utils to desktop-recommends
   * Removed telnet from standard-recommends
 
- -- root <root@e019c286bd1f>  Sat, 15 Oct 2022 13:51:31 +0000
+  [ Aleksey Samoilov ]
+  * Update changelog
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sat, 15 Oct 2022 19:08:53 +0400
 
 ubuntusway-meta (1.40~kinetic) kinetic; urgency=medium
 
