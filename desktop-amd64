@@ -18,7 +18,9 @@ foot
 ghostscript-x
 grimshot
 gstreamer1.0-alsa
+gstreamer1.0-pipewire
 gstreamer1.0-plugins-base
+gstreamer1.0-plugins-base-apps
 gstreamer1.0-plugins-good
 gvfs-backends
 gvfs-fuse
@@ -77,6 +79,7 @@ wob
 wpasupplicant
 wvdial
 xdg-desktop-portal-wlr
+xdg-user-dirs
 xkb-data
 xsettingsd
 xwayland

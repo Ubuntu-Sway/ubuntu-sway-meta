@@ -1,4 +1,6 @@
+apt-xapian-index
 audacious
+avahi-autoipd
 avahi-daemon
 bluez
 bluez-cups
@@ -6,6 +8,7 @@ cups
 cups-bsd
 cups-client
 cups-filters
+desktop-file-utils
 drm-info
 engrampa
 firefox
@@ -32,6 +35,7 @@ fwupd-signed
 gamemode
 gimp
 gnome-packagekit
+go-mtpfs
 greetd
 greetd-tuigreet
 hplip
@@ -40,6 +44,7 @@ inxi
 kerneloops
 kitty
 laptop-detect
+libfuse2
 libnss-mdns
 libreoffice-calc
 libreoffice-gtk3
@@ -59,8 +64,10 @@ pavucontrol
 pcmanfm-gtk3
 pcmciautils
 playerctl
+plocate
 pluma
 policykit-desktop-privileges
+ppa-purge
 printer-driver-brlaser
 printer-driver-c2esp
 printer-driver-foo2zjs
@@ -82,13 +89,16 @@ thunderbird
 tlp
 transmission-gtk
 ubuntusway-welcome
+udisks2
 update-notifier
+upower
 usb-creator-gtk
 vulkan-tools
 waypipe
 wayvnc
 wev
 wlr-randr
+xdg-utils
 zathura
 zathura-cb
 zathura-djvu

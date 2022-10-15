@@ -8,12 +8,12 @@ irqbalance
 manpages
 mtr-tiny
 nano
+netkit-telnet
 ntfs-3g
 openssh-client
 plymouth
 plymouth-theme-ubuntu-text
 tcpdump
-telnet
 ufw
 update-manager-core
 uuid-runtime

@@ -1,3 +1,24 @@
+ubuntusway-meta (1.40~kinetid) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added apt-xapian-index to desktop-recommends
+  * Added avahi-autoipd to desktop-recommends
+  * Added desktop-file-utils to desktop-recommends
+  * Added go-mtpfs to desktop-recommends
+  * Added gstreamer1.0-pipewire to desktop
+  * Added gstreamer1.0-plugins-base-apps to desktop
+  * Added libfuse2 to desktop-recommends
+  * Added netkit-telnet to standard-recommends
+  * Added plocate to desktop-recommends
+  * Added ppa-purge to desktop-recommends
+  * Added udisks2 to desktop-recommends
+  * Added upower to desktop-recommends
+  * Added xdg-user-dirs to desktop
+  * Added xdg-utils to desktop-recommends
+  * Removed telnet from standard-recommends
+
+ -- root <root@e019c286bd1f>  Sat, 15 Oct 2022 13:51:31 +0000
+
 ubuntusway-meta (1.40~kinetic) kinetic; urgency=medium
 
   [ root ]
