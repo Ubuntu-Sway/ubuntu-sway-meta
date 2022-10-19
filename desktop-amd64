@@ -38,6 +38,7 @@ mobile-broadband-provider-info
 modemmanager
 neovim
 network-manager
+nwg-bar
 nwg-displays
 nwg-drawer
 nwg-look
@@ -74,7 +75,6 @@ wf-recorder
 wireless-tools
 wireplumber
 wl-clipboard
-wlogout
 wob
 wpasupplicant
 wvdial
