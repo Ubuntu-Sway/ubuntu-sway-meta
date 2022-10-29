@@ -1,3 +1,10 @@
+ubuntusway-meta (1.42~kinetid) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added breeze-cursor-theme to desktop
+
+ -- root <root@c07037c98ace>  Sat, 29 Oct 2022 11:36:22 +0000
+
 ubuntusway-meta (1.42~kinetic) kinetic; urgency=medium
 
   [ root ]
