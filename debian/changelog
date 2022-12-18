@@ -1,3 +1,10 @@
+ubuntusway-meta (1.43~kinetid) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Moved neovim to desktop-recommends
+
+ -- root <root@d2bb3ce84eed>  Sun, 18 Dec 2022 06:11:48 +0000
+
 ubuntusway-meta (1.43~kinetic) kinetic; urgency=medium
 
   [ root ]
