@@ -1,9 +1,11 @@
-ubuntusway-meta (1.28~jammz) UNRELEASED; urgency=medium
+ubuntusway-meta (1.28~jamna) UNRELEASED; urgency=medium
 
   * Refreshed dependencies
   * Added ffmpeg to desktop
+  * Refreshed dependencies
+  * Moved neovim to desktop-recommends
 
- -- root <root@6310a74765d4>  Tue, 09 Aug 2022 17:24:38 +0000
+ -- root <root@9778570cd405>  Sun, 18 Dec 2022 05:58:09 +0000
 
 ubuntusway-meta (1.28~jammy) jammy; urgency=medium
 
