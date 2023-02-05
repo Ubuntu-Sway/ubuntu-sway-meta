@@ -4,12 +4,14 @@ avahi-autoipd
 avahi-daemon
 bluez
 bluez-cups
+cage
 cups
 cups-bsd
 cups-client
 cups-filters
 desktop-file-utils
 drm-info
+earlyoom
 engrampa
 firefox
 flatpak
@@ -33,16 +35,14 @@ fonts-ubuntu
 fwupd
 fwupd-signed
 gamemode
-gimp
 gnome-packagekit
 go-mtpfs
 greetd
-greetd-tuigreet
+greetd-gtkgreet
 hplip
 htop
 inxi
 kerneloops
-kitty
 laptop-detect
 libfuse2
 libnss-mdns
@@ -51,7 +51,6 @@ libreoffice-gtk3
 libreoffice-impress
 libreoffice-style-yaru
 libreoffice-writer
-libspa-0.2-bluetooth
 lximage-qt
 mate-calc
 memtest86+
@@ -59,6 +58,7 @@ mesa-utils
 mpv
 musikcube
 neofetch
+neovim
 packagekit
 pavucontrol
 pcmanfm-gtk3
@@ -83,7 +83,6 @@ ranger
 simple-scan
 software-properties-gtk
 swayimg
-systemd-oomd
 thermald
 thunderbird
 tlp

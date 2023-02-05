@@ -1,3 +1,35 @@
+ubuntusway-meta (1.43~kinetid) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added cage to desktop-recommends
+  * Added calcurse to desktop
+  * Added cryptsetup to live
+  * Added earlyoom to desktop-recommends
+  * Added greetd-gtkgreet to desktop-recommends
+  * Added lxpolkit-gtk3 to desktop
+  * Added pipewire-audio to desktop
+  * Added qt6ct to desktop
+  * Added swayr to desktop
+  * Added system-config-printer to desktop
+  * Added telnet to standard-recommends
+  * Added wlsunset to desktop
+  * Added xdg-desktop-portal-gtk to desktop
+  * Removed flashfocus from desktop
+  * Removed gimp from desktop-recommends
+  * Removed greetd-tuigreet from desktop-recommends
+  * Removed khal from desktop
+  * Removed kitty from desktop-recommends
+  * Removed libspa-0.2-bluetooth from desktop-recommends
+  * Removed lxpolkit from desktop
+  * Removed netkit-telnet from standard-recommends
+  * Removed pipewire-pulse from desktop
+  * Removed systemd-oomd from desktop-recommends
+  * Removed ubuntusway-rpi-default-settings from desktop [arm64]
+  * Removed wireplumber from desktop
+  * Moved neovim to desktop-recommends
+
+ -- root <root@3abccd95d1f1>  Sun, 05 Feb 2023 06:18:38 +0000
+
 ubuntusway-meta (1.43~kinetic) kinetic; urgency=medium
 
   [ root ]

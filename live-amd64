@@ -2,6 +2,7 @@ btrfs-progs
 calamares-settings-ubuntusway
 casper
 cifs-utils
+cryptsetup
 discover
 dmraid
 expect
