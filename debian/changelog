@@ -1,11 +1,15 @@
-ubuntusway-meta (1.44~lunas) UNRELEASED; urgency=medium
+ubuntusway-meta (1.45~lunar) lunar; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Added greetd-tuigreet to desktop-recommends
   * Removed cage from desktop-recommends
   * Removed greetd-gtkgreet from desktop-recommends
 
- -- root <root@6d9ee7cb1062>  Mon, 06 Feb 2023 15:03:36 +0000
+  [ Aleksey Samoilov ]
+  * Bring back tuigreet
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Mon, 06 Feb 2023 19:33:18 +0400
 
 ubuntusway-meta (1.44~lunar) lunar; urgency=medium
 
