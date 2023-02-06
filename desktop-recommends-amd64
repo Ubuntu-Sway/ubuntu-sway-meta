@@ -4,7 +4,6 @@ avahi-autoipd
 avahi-daemon
 bluez
 bluez-cups
-cage
 cups
 cups-bsd
 cups-client
@@ -38,7 +37,7 @@ gamemode
 gnome-packagekit
 go-mtpfs
 greetd
-greetd-gtkgreet
+greetd-tuigreet
 hplip
 htop
 inxi
