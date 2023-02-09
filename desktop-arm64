@@ -18,6 +18,7 @@ foomatic-db-compressed-ppds
 foot
 ghostscript-x
 grimshot
+gron
 gstreamer1.0-alsa
 gstreamer1.0-pipewire
 gstreamer1.0-plugins-base
@@ -68,6 +69,7 @@ system-config-printer
 ubuntu-drivers-common
 ubuntusway-artwork
 ubuntusway-grub-theme
+ubuntusway-rpi-default-settings
 unzip
 usb-modeswitch
 waybar
