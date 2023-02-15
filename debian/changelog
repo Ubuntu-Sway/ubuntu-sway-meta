@@ -1,3 +1,10 @@
+ubuntusway-meta (1.46~lunas) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added swappy to desktop
+
+ -- root <root@95d9440741a8>  Wed, 15 Feb 2023 14:16:15 +0000
+
 ubuntusway-meta (1.46~lunar) lunar; urgency=medium
 
   [ root ]
