@@ -26,6 +26,7 @@ gstreamer1.0-plugins-base-apps
 gstreamer1.0-plugins-good
 gvfs-backends
 gvfs-fuse
+inotify-tools
 inputattach
 kanshi
 language-selector-common

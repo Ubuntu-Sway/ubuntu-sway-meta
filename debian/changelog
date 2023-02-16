@@ -1,3 +1,10 @@
+ubuntusway-meta (1.47~lunas) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added inotify-tools to desktop
+
+ -- root <root@7fbc1183e93a>  Thu, 16 Feb 2023 09:40:21 +0000
+
 ubuntusway-meta (1.47~lunar) lunar; urgency=medium
 
   [ root ]
