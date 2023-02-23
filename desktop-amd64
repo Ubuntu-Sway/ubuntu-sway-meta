@@ -47,12 +47,14 @@ nwg-look
 nwg-wrapper
 openprinting-ppds
 pipewire-audio
+playerctl
 plymouth-theme-ubuntusway-logo
 plymouth-theme-ubuntusway-text
 poweralertd
 printer-driver-gutenprint
 printer-driver-pnm2ppa
 pulseaudio-utils
+pulsemixer
 python-is-python3
 python3-requests
 qt5ct

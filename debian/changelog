@@ -1,3 +1,11 @@
+ubuntusway-meta (1.50~lunas) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added pulsemixer to desktop
+  * Moved playerctl to desktop
+
+ -- root <root@06048bfea572>  Thu, 23 Feb 2023 21:05:31 +0000
+
 ubuntusway-meta (1.50~lunar) lunar; urgency=medium
 
   [ root ]
