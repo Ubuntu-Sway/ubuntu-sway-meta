@@ -12,7 +12,6 @@ desktop-file-utils
 drm-info
 earlyoom
 engrampa
-flatpak
 fonts-arphic-ukai
 fonts-arphic-uming
 fonts-indic
@@ -72,7 +71,6 @@ printer-driver-ptouch
 printer-driver-pxljr
 printer-driver-sag-gdi
 printer-driver-splix
-pulsemixer
 qutebrowser
 ranger
 simple-scan

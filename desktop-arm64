@@ -51,6 +51,7 @@ plymouth-theme-ubuntusway-logo
 plymouth-theme-ubuntusway-text
 printer-driver-gutenprint
 printer-driver-pnm2ppa
+pulseaudio-utils
 python-is-python3
 python3-requests
 qt5ct
@@ -80,7 +81,6 @@ wf-recorder
 wireless-tools
 wl-clipboard
 wlsunset
-wob
 wpasupplicant
 wvdial
 xdg-desktop-portal-gtk
