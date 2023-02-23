@@ -1,12 +1,16 @@
-ubuntusway-meta (1.49~lunas) UNRELEASED; urgency=medium
+ubuntusway-meta (1.50~lunar) lunar; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Added pulseaudio-utils to desktop
   * Removed flatpak from desktop-recommends
   * Removed pulsemixer from desktop-recommends
   * Removed wob from desktop
 
- -- root <root@638c7dad6c78>  Thu, 23 Feb 2023 18:00:22 +0000
+  [ Aleksey Samoilov ]
+  * Update changelog
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Thu, 23 Feb 2023 22:22:57 +0400
 
 ubuntusway-meta (1.49~lunar) lunar; urgency=medium
 
