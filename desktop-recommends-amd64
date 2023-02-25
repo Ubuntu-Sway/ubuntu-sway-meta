@@ -89,6 +89,7 @@ update-notifier
 upower
 usb-creator-gtk
 vulkan-tools
+wayland-utils
 waypipe
 wayvnc
 wev
