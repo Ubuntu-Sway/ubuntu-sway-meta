@@ -4,6 +4,7 @@ avahi-autoipd
 avahi-daemon
 bluez
 bluez-cups
+cage
 cups
 cups-bsd
 cups-client
@@ -34,7 +35,7 @@ fwupd-signed
 gnome-packagekit
 go-mtpfs
 greetd
-greetd-tuigreet
+greetd-gtkgreet
 hplip
 htop
 inxi
