@@ -1,12 +1,15 @@
-ubuntusway-meta (1.52~lunas) UNRELEASED; urgency=medium
+ubuntusway-meta (1.53~lunar) lunar; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Added cage to desktop-recommends
   * Added greetd-gtkgreet to desktop-recommends
   * Removed greetd-tuigreet from desktop-recommends
-  * Removed lsb-release-minimal from minimal
 
- -- root <root@e130f7045ff8>  Fri, 03 Mar 2023 14:03:52 +0000
+  [ Aleksey Samoilov ]
+  * Update
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Fri, 03 Mar 2023 18:04:26 +0400
 
 ubuntusway-meta (1.52~lunar) lunar; urgency=medium
 
