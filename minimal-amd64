@@ -14,7 +14,6 @@ kbd
 kmod
 less
 locales
-lsb-release-minimal
 mawk
 mount
 netbase

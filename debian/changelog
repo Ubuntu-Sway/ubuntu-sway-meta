@@ -1,3 +1,11 @@
+ubuntusway-meta (1.53~lunas) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Removed cage from desktop-recommends
+  * Removed lsb-release-minimal from minimal
+
+ -- root <root@553112575bc1>  Fri, 03 Mar 2023 18:49:29 +0000
+
 ubuntusway-meta (1.53~lunar) lunar; urgency=medium
 
   [ root ]
