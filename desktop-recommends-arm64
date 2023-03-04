@@ -34,7 +34,7 @@ fwupd-signed
 gnome-packagekit
 go-mtpfs
 greetd
-greetd-gtkgreet
+greetd-tuigreet
 hplip
 htop
 inxi

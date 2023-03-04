@@ -1,3 +1,13 @@
+ubuntusway-meta (1.54~lunas) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added greetd-tuigreet to desktop-recommends
+  * Added lsb-release to minimal
+  * Removed greetd-gtkgreet from desktop-recommends
+  * Removed lsb-release-minimal from minimal
+
+ -- root <root@7d91052e2cb7>  Sat, 04 Mar 2023 06:36:45 +0000
+
 ubuntusway-meta (1.54~lunar) lunar; urgency=medium
 
   [ root ]
