@@ -1,4 +1,4 @@
-Source: ubuntusway-meta
+Source: ubuntu-sway-meta
 Section: metapackages
 Priority: optional
 Maintainer: Aleksey Samoilov <samoilov.lex@gmail.com>
@@ -7,9 +7,11 @@ Standards-Version: 4.5.1
 Homepage: https://github.com/Ubuntu-Sway
 Rules-Requires-Root: no
 
-Package: ubuntusway-desktop
+Package: ubuntu-sway-desktop
 Architecture: any
 Depends: ${misc:Depends}, ${germinate:Depends}
+Conflicts: ubuntusway-desktop
+Replaces: ubuntusway-desktop
 Recommends: ${germinate:Recommends}
 Description: Complete desktop of Ubuntu Sway
  This metapackage installs the complete Ubuntu Sway desktop.
@@ -17,16 +19,20 @@ Description: Complete desktop of Ubuntu Sway
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
  
-Package: ubuntusway-live
+Package: ubuntu-sway-live
 Architecture: any
 Depends: ${misc:Depends}, ${germinate:Depends}
+Conflicts: ubuntusway-live
+Replaces: ubuntusway-live
 Recommends: ${germinate:Recommends}
 Description: ubuntusway Live Settings
  Configuration for the Ubuntu Sway live session
 
-Package: ubuntusway-minimal
+Package: ubuntu-sway-minimal
 Architecture: any
 Depends: ${misc:Depends}, ${germinate:Depends}
+Conflicts: ubuntusway-minimal
+Replaces: ubuntusway-minimal
 Recommends: ${germinate:Recommends}
 Description: Minimal core of Ubuntu Sway Remix
  This metapackage depends on all of the packages in the elementary minimal system,
@@ -41,9 +47,11 @@ Description: Minimal core of Ubuntu Sway Remix
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
 
-Package: ubuntusway-standard
+Package: ubuntu-sway-standard
 Architecture: any
 Depends: ${misc:Depends}, ${germinate:Depends}
+Conflicts: ubuntusway-standard
+Replaces: ubuntusway-standard
 Recommends: ${germinate:Recommends}
 Description: CLI-only components of Ubuntu Sway Remix
  This metapackage depends on most of non-GUI packages from Ubuntu Sway Desktop.
