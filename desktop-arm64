@@ -48,8 +48,8 @@ nwg-wrapper
 openprinting-ppds
 pipewire-audio
 playerctl
-plymouth-theme-ubuntusway-logo
-plymouth-theme-ubuntusway-text
+plymouth-theme-ubuntu-sway-logo
+plymouth-theme-ubuntu-sway-text
 printer-driver-gutenprint
 printer-driver-pnm2ppa
 pulseaudio-utils
@@ -73,9 +73,9 @@ swaylock
 swayr
 system-config-printer
 ubuntu-drivers-common
-ubuntusway-artwork
-ubuntusway-grub-theme
-ubuntusway-rpi-default-settings
+ubuntu-sway-artwork
+ubuntu-sway-grub-theme
+ubuntu-sway-raspi-settings-desktop
 unzip
 usb-modeswitch
 waybar
