@@ -1,3 +1,10 @@
+ubuntu-sway-meta (1.57~lunas) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Removed ubuntu-sway-raspi-settings-desktop from desktop [arm64]
+
+ -- root <root@56d1547fde03>  Sun, 12 Mar 2023 14:19:31 +0000
+
 ubuntu-sway-meta (1.57~lunar) lunar; urgency=medium
 
   [ root ]

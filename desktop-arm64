@@ -75,7 +75,6 @@ system-config-printer
 ubuntu-drivers-common
 ubuntu-sway-artwork
 ubuntu-sway-grub-theme
-ubuntu-sway-raspi-settings-desktop
 unzip
 usb-modeswitch
 waybar
