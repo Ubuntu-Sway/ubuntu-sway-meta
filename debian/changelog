@@ -1,5 +1,6 @@
-ubuntusway-meta (1.55~lunas) UNRELEASED; urgency=medium
+ubuntu-sway-meta (1.56~lunar) lunar; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Added plymouth-theme-ubuntu-sway-logo to desktop
   * Added plymouth-theme-ubuntu-sway-text to desktop
@@ -16,7 +17,10 @@ ubuntusway-meta (1.55~lunas) UNRELEASED; urgency=medium
   * Removed ubuntusway-rpi-default-settings from desktop [arm64]
   * Removed ubuntusway-welcome from desktop-recommends [amd64]
 
- -- root <root@5ea3505fc588>  Sun, 12 Mar 2023 11:48:25 +0000
+  [ Aleksey Samoilov ]
+  * Rename core packages
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sun, 12 Mar 2023 16:15:02 +0400
 
 ubuntusway-meta (1.55~lunar) lunar; urgency=medium
 
