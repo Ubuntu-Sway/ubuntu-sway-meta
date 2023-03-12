@@ -1,10 +1,14 @@
-ubuntu-sway-meta (1.56~lunas) UNRELEASED; urgency=medium
+ubuntu-sway-meta (1.57~lunar) lunar; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Added calamares-settings-ubuntu-sway to live
   * Removed calamares-settings-ubuntusway from live
 
- -- root <root@8fb3a3d5c24f>  Sun, 12 Mar 2023 13:54:31 +0000
+  [ Aleksey Samoilov ]
+  * Rename Live packages
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sun, 12 Mar 2023 17:57:45 +0400
 
 ubuntu-sway-meta (1.56~lunar) lunar; urgency=medium
 
