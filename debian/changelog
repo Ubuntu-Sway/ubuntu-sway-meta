@@ -1,9 +1,13 @@
-ubuntu-sway-meta (1.57~lunas) UNRELEASED; urgency=medium
+ubuntu-sway-meta (1.58~lunar) lunar; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Removed ubuntu-sway-raspi-settings-desktop from desktop [arm64]
 
- -- root <root@56d1547fde03>  Sun, 12 Mar 2023 14:19:31 +0000
+  [ Aleksey Samoilov ]
+  * Add Raspberry Pi metapackages
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sun, 12 Mar 2023 18:42:08 +0400
 
 ubuntu-sway-meta (1.57~lunar) lunar; urgency=medium
 

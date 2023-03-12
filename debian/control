@@ -18,6 +18,18 @@ Description: Complete desktop of Ubuntu Sway
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
+
+Package: ubuntu-sway-desktop-raspi
+Architecture: any
+Depends: ${misc:Depends}, ${germinate:Depends}
+Conflicts: ubuntusway-desktop
+Replaces: ubuntusway-desktop
+Recommends: ${germinate:Recommends}
+Description: Complete desktop of Ubuntu Sway on Raspberry Pi devices
+ This metapackage installs the complete Ubuntu Sway desktop.
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
  
 Package: ubuntu-sway-live
 Architecture: any

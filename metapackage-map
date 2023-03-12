@@ -1,4 +1,5 @@
 desktop ubuntu-sway-desktop
+desktop-raspi ubuntu-sway-desktop-raspi
 live ubuntu-sway-live
 minimal ubuntu-sway-minimal
 standard ubuntu-sway-standard
