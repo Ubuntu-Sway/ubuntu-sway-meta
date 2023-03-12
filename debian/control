@@ -20,7 +20,7 @@ Description: Complete desktop of Ubuntu Sway
  it not be removed.
 
 Package: ubuntu-sway-desktop-raspi
-Architecture: any
+Architecture: arm64
 Depends: ${misc:Depends}, ${germinate:Depends}
 Conflicts: ubuntusway-desktop
 Replaces: ubuntusway-desktop
