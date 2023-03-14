@@ -8,7 +8,7 @@ Homepage: https://github.com/Ubuntu-Sway
 Rules-Requires-Root: no
 
 Package: ubuntu-sway-desktop
-Architecture: any
+Architecture: amd64, arm64
 Depends: ${misc:Depends}, ${germinate:Depends}
 Conflicts: ubuntusway-desktop
 Replaces: ubuntusway-desktop
