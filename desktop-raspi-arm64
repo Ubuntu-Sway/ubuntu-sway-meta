@@ -79,11 +79,10 @@ swayr
 system-config-printer
 ubuntu-drivers-common
 ubuntu-raspi-settings
-ubuntu-raspi-settings-desktop
 ubuntu-sway-artwork
 ubuntu-sway-desktop
 ubuntu-sway-grub-theme
-ubuntu-sway-raspi-settings-desktop
+ubuntu-sway-raspi-settings
 unzip
 usb-modeswitch
 waybar
