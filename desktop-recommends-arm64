@@ -31,6 +31,7 @@ fonts-tibetan-machine
 fonts-ubuntu
 fwupd
 fwupd-signed
+gnome-firmware
 gnome-packagekit
 go-mtpfs
 greetd

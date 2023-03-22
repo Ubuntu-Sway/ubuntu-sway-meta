@@ -1,3 +1,10 @@
+ubuntu-sway-meta (1.60~lunas) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added gnome-firmware to desktop-raspi-recommends, desktop-recommends
+
+ -- root <root@ab530facc11c>  Wed, 22 Mar 2023 11:19:27 +0000
+
 ubuntu-sway-meta (1.60~lunar) lunar; urgency=medium
 
   [ root ]

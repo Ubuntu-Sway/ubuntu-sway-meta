@@ -33,6 +33,7 @@ fonts-ubuntu
 fwupd
 fwupd-signed
 gamemode
+gnome-firmware
 gnome-packagekit
 go-mtpfs
 greetd
