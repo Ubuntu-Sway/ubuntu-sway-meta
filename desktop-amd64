@@ -9,7 +9,6 @@ ca-certificates
 calcurse
 cliphist
 curl
-dex
 fonts-dejavu-core
 fonts-font-awesome
 fonts-font-awesome-6
@@ -68,6 +67,7 @@ spice-vdagent
 swappy
 sway
 sway-input-config
+sway-systemd
 swaybg
 swayidle
 swaylock

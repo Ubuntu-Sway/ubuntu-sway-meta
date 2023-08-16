@@ -10,7 +10,6 @@ cups-client
 cups-filters
 desktop-file-utils
 drm-info
-earlyoom
 engrampa
 firefox
 fonts-arphic-ukai
@@ -40,6 +39,7 @@ greetd
 greetd-tuigreet
 hplip
 htop
+imv
 inxi
 kerneloops
 laptop-detect
@@ -79,7 +79,7 @@ qutebrowser
 ranger
 simple-scan
 software-properties-gtk
-swayimg
+systemd-oomd
 thermald
 thunderbird
 tlp

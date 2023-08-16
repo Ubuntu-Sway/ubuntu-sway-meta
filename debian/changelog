@@ -1,3 +1,15 @@
+ubuntu-sway-meta (1.61~lunas) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added imv to desktop-raspi-recommends, desktop-recommends
+  * Added sway-systemd to desktop, desktop-raspi
+  * Added systemd-oomd to desktop-raspi-recommends, desktop-recommends
+  * Removed dex from desktop, desktop-raspi
+  * Removed earlyoom from desktop-raspi-recommends, desktop-recommends
+  * Removed swayimg from desktop-raspi-recommends, desktop-recommends
+
+ -- root <root@7aee7e2d0270>  Wed, 16 Aug 2023 08:03:03 +0000
+
 ubuntu-sway-meta (1.61~lunar) lunar; urgency=medium
 
   [ root ]

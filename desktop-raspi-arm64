@@ -10,7 +10,6 @@ calcurse
 cliphist
 cloud-initramfs-growroot
 curl
-dex
 flash-kernel
 fonts-dejavu-core
 fonts-font-awesome
@@ -72,6 +71,7 @@ spice-vdagent
 swappy
 sway
 sway-input-config
+sway-systemd
 swaybg
 swayidle
 swaylock
