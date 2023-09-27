@@ -34,8 +34,8 @@ libglib2.0-bin
 libsasl2-modules
 libu2f-udev
 light
-lxpolkit-gtk3
 mako-notifier
+mate-polkit-bin
 mobile-broadband-provider-info
 modemmanager
 network-manager
