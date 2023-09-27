@@ -1,11 +1,15 @@
-ubuntu-sway-meta (1.62~mantid) UNRELEASED; urgency=medium
+ubuntu-sway-meta (1.63~mantic) mantic; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Added mate-polkit-bin to desktop, desktop-raspi
   * Removed isc-dhcp-client from minimal
   * Removed lxpolkit-gtk3 from desktop, desktop-raspi
 
- -- root <root@096346caabcd>  Wed, 27 Sep 2023 06:39:27 +0000
+  [ Aleksey Samoilov ]
+  * Update changelog
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Wed, 27 Sep 2023 13:36:25 +0400
 
 ubuntu-sway-meta (1.62~mantic) mantic; urgency=medium
 
