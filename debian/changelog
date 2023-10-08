@@ -1,9 +1,13 @@
-ubuntu-sway-meta (1.63~mantid) UNRELEASED; urgency=medium
+ubuntu-sway-meta (1.64~mantic) mantic; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Added bluetuith to desktop-raspi-recommends, desktop-recommends
 
- -- root <root@e63037bb5529>  Sun, 08 Oct 2023 12:28:48 +0000
+  [ Aleksey Samoilov ]
+  * Update packages
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sun, 08 Oct 2023 16:32:15 +0400
 
 ubuntu-sway-meta (1.63~mantic) mantic; urgency=medium
 
