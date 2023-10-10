@@ -5,6 +5,7 @@ avahi-daemon
 bluetuith
 bluez
 bluez-cups
+bluez-obexd
 cups
 cups-bsd
 cups-client

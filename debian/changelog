@@ -1,3 +1,10 @@
+ubuntu-sway-meta (1.65~mantiс) mantic; urgency=medium
+
+  * Refreshed dependencies
+  * Added bluez-obexd to desktop-raspi-recommends, desktop-recommends
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Tue, 10 Oct 2023 15:51:53 +0400
+
 ubuntu-sway-meta (1.64~mantic) mantic; urgency=medium
 
   [ root ]
