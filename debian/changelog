@@ -1,3 +1,43 @@
+ubuntu-sway-meta (unknown) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added ghostscript to desktop, desktop-raspi
+  * Removed autotiling from desktop, desktop-raspi
+  * Removed azote from desktop, desktop-raspi
+  * Removed bluetuith from desktop-raspi-recommends, desktop-recommends
+  * Removed calamares-settings-ubuntu-sway from live
+  * Removed fonts-font-awesome-6 from desktop, desktop-raspi
+  * Removed ghostscript-x from desktop, desktop-raspi
+  * Removed greetd-tuigreet from desktop-raspi-recommends, desktop-
+    recommends
+  * Removed grimshot from desktop, desktop-raspi
+  * Removed musikcube from desktop-raspi-recommends, desktop-recommends
+  * Removed nwg-bar from desktop, desktop-raspi
+  * Removed nwg-displays from desktop, desktop-raspi
+  * Removed nwg-drawer from desktop, desktop-raspi
+  * Removed nwg-look from desktop, desktop-raspi
+  * Removed nwg-wrapper from desktop, desktop-raspi
+  * Removed pcmanfm-gtk3 from desktop-raspi-recommends, desktop-
+    recommends
+  * Removed plymouth-theme-ubuntu-sway-logo from desktop, desktop-raspi
+  * Removed plymouth-theme-ubuntu-sway-text from desktop, desktop-raspi
+  * Removed rofi-wayland from desktop, desktop-raspi
+  * Removed swappy from desktop, desktop-raspi
+  * Removed sway-input-config from desktop, desktop-raspi
+  * Removed sway-systemd from desktop, desktop-raspi
+  * Removed swayr from desktop, desktop-raspi
+  * Removed ubuntu-sway-artwork from desktop, desktop-raspi
+  * Removed ubuntu-sway-default-settings from desktop [amd64], desktop-
+    raspi [amd64]
+  * Removed ubuntu-sway-desktop from desktop-raspi
+  * Removed ubuntu-sway-grub-theme from desktop, desktop-raspi
+  * Removed ubuntu-sway-raspi-settings from desktop-raspi [arm64]
+  * Removed ubuntu-sway-welcome from desktop-raspi-recommends [amd64],
+    desktop-recommends [amd64]
+  * Removed usrmerge from minimal-recommends
+
+ -- root <root@ba36ea0c8f69>  Mon, 05 Feb 2024 10:44:18 +0000
+
 ubuntu-sway-meta (1.65~mantiс) mantic; urgency=medium
 
   * Refreshed dependencies
