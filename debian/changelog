@@ -35,8 +35,13 @@ ubuntu-sway-meta (unknown) UNRELEASED; urgency=medium
   * Removed ubuntu-sway-welcome from desktop-raspi-recommends [amd64],
     desktop-recommends [amd64]
   * Removed usrmerge from minimal-recommends
+  * Refreshed dependencies
+  * Added brightnessctl to desktop, desktop-raspi
+  * Added grimshot to desktop, desktop-raspi
+  * Removed light from desktop, desktop-raspi
+  * Moved foot to desktop-raspi-recommends, desktop-recommends
 
- -- root <root@ba36ea0c8f69>  Mon, 05 Feb 2024 10:44:18 +0000
+ -- root <root@ca54d6e6ddc7>  Wed, 20 Mar 2024 17:04:15 +0000
 
 ubuntu-sway-meta (1.65~mantiс) mantic; urgency=medium
 

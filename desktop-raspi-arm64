@@ -3,6 +3,7 @@ alsa-utils
 anacron
 bc
 breeze-cursor-theme
+brightnessctl
 ca-certificates
 calcurse
 cliphist
@@ -14,8 +15,8 @@ fonts-font-awesome
 fonts-freefont-ttf
 fonts-hack
 foomatic-db-compressed-ppds
-foot
 ghostscript
+grimshot
 gron
 gstreamer1.0-alsa
 gstreamer1.0-pipewire
@@ -33,7 +34,6 @@ libraspberrypi-bin
 libraspberrypi0
 libsasl2-modules
 libu2f-udev
-light
 mako-notifier
 mate-polkit-bin
 mobile-broadband-provider-info
