@@ -2,6 +2,7 @@ apt-xapian-index
 audacious
 avahi-autoipd
 avahi-daemon
+bluetuith
 bluez
 bluez-cups
 bluez-obexd
@@ -38,6 +39,7 @@ gnome-firmware
 gnome-packagekit
 go-mtpfs
 greetd
+greetd-tuigreet
 hplip
 htop
 imv
@@ -56,10 +58,12 @@ mate-calc
 memtest86+
 mesa-utils
 mpv
+musikcube
 neofetch
 neovim
 packagekit
 pavucontrol
+pcmanfm-gtk3
 pcmciautils
 plocate
 pluma
@@ -83,6 +87,7 @@ thermald
 thunderbird
 tlp
 transmission-gtk
+ubuntu-sway-welcome
 udisks2
 update-notifier
 upower

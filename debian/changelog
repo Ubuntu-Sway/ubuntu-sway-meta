@@ -40,8 +40,37 @@ ubuntu-sway-meta (unknown) UNRELEASED; urgency=medium
   * Added grimshot to desktop, desktop-raspi
   * Removed light from desktop, desktop-raspi
   * Moved foot to desktop-raspi-recommends, desktop-recommends
+  * Refreshed dependencies
+  * Added autotiling to desktop, desktop-raspi
+  * Added azote to desktop, desktop-raspi
+  * Added bluetuith to desktop-raspi-recommends, desktop-recommends
+  * Added calamares-settings-ubuntu-sway to live
+  * Added fonts-font-awesome-6 to desktop, desktop-raspi
+  * Added greetd-tuigreet to desktop-raspi-recommends, desktop-
+    recommends
+  * Added musikcube to desktop-raspi-recommends, desktop-recommends
+  * Added nwg-bar to desktop, desktop-raspi
+  * Added nwg-displays to desktop, desktop-raspi
+  * Added nwg-drawer to desktop, desktop-raspi
+  * Added nwg-look to desktop, desktop-raspi
+  * Added nwg-wrapper to desktop, desktop-raspi
+  * Added pcmanfm-gtk3 to desktop-raspi-recommends, desktop-recommends
+  * Added plymouth-theme-ubuntu-sway-logo to desktop, desktop-raspi
+  * Added plymouth-theme-ubuntu-sway-text to desktop, desktop-raspi
+  * Added rofi-wayland to desktop, desktop-raspi
+  * Added swappy to desktop, desktop-raspi
+  * Added sway-input-config to desktop, desktop-raspi
+  * Added sway-systemd to desktop, desktop-raspi
+  * Added swayr to desktop, desktop-raspi
+  * Added ubuntu-sway-artwork to desktop, desktop-raspi
+  * Added ubuntu-sway-default-settings to desktop [amd64], desktop-raspi
+    [amd64]
+  * Added ubuntu-sway-grub-theme to desktop, desktop-raspi
+  * Added ubuntu-sway-raspi-settings to desktop-raspi [arm64]
+  * Added ubuntu-sway-welcome to desktop-raspi-recommends [amd64],
+    desktop-recommends [amd64]
 
- -- root <root@ca54d6e6ddc7>  Wed, 20 Mar 2024 17:04:15 +0000
+ -- root <root@0b87e43983f4>  Thu, 21 Mar 2024 08:34:06 +0000
 
 ubuntu-sway-meta (1.65~mantiс) mantic; urgency=medium
 

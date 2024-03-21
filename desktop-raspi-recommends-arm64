@@ -2,6 +2,7 @@ apt-xapian-index
 audacious
 avahi-autoipd
 avahi-daemon
+bluetuith
 bluez
 bluez-cups
 bluez-obexd
@@ -36,6 +37,7 @@ gnome-firmware
 gnome-packagekit
 go-mtpfs
 greetd
+greetd-tuigreet
 hplip
 htop
 imv
@@ -52,10 +54,12 @@ libreoffice-writer
 lximage-qt
 mate-calc
 mesa-utils
+musikcube
 neofetch
 neovim
 packagekit
 pavucontrol
+pcmanfm-gtk3
 pcmciautils
 plocate
 pluma
