@@ -1,5 +1,6 @@
-ubuntu-sway-meta (unknown) UNRELEASED; urgency=medium
+ubuntu-sway-meta (1.66~noble) noble; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Added ghostscript to desktop, desktop-raspi
   * Removed autotiling from desktop, desktop-raspi
@@ -70,7 +71,10 @@ ubuntu-sway-meta (unknown) UNRELEASED; urgency=medium
   * Added ubuntu-sway-welcome to desktop-raspi-recommends [amd64],
     desktop-recommends [amd64]
 
- -- root <root@0b87e43983f4>  Thu, 21 Mar 2024 08:34:06 +0000
+  [ Aleksey Samoilov ]
+  * Release for Noble
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Thu, 21 Mar 2024 12:36:24 +0400
 
 ubuntu-sway-meta (1.65~mantiс) mantic; urgency=medium
 
