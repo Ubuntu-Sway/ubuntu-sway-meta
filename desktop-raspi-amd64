@@ -1,3 +1,4 @@
+acpi
 alsa-base
 alsa-utils
 anacron
@@ -54,14 +55,12 @@ printer-driver-gutenprint
 printer-driver-pnm2ppa
 pulseaudio-utils
 pulsemixer
-python-is-python3
 python3-requests
 qt5ct
 qt6-wayland
 qt6ct
 qtwayland5
 rfkill
-rofi-wayland
 slurp
 spice-vdagent
 swappy
@@ -72,11 +71,11 @@ swaybg
 swayidle
 swaylock
 swayr
-system-config-printer
 ubuntu-drivers-common
 ubuntu-raspi-settings
 ubuntu-sway-artwork
 ubuntu-sway-default-settings
+ubuntu-sway-desktop
 ubuntu-sway-grub-theme
 unzip
 usb-modeswitch
@@ -92,5 +91,4 @@ xdg-desktop-portal-wlr
 xdg-user-dirs
 xkb-data
 xsettingsd
-xwayland
 zip

@@ -34,7 +34,7 @@ foot
 fwupd
 fwupd-signed
 gnome-firmware
-gnome-packagekit
+gnome-software
 go-mtpfs
 greetd
 greetd-tuigreet
@@ -76,8 +76,10 @@ printer-driver-sag-gdi
 printer-driver-splix
 qutebrowser
 ranger
+rofi-wayland
 simple-scan
 software-properties-gtk
+system-config-printer
 systemd-oomd
 thunderbird
 transmission-gtk
@@ -88,11 +90,9 @@ usb-creator-gtk
 vlc
 vulkan-tools
 wayland-utils
-waypipe
-wayvnc
 wev
-wlr-randr
 xdg-utils
+xwayland
 zathura
 zathura-cb
 zathura-djvu

@@ -1,3 +1,23 @@
+ubuntu-sway-meta (1.66~noblf) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added acpi to desktop, desktop-raspi
+  * Added gnome-software to desktop-raspi-recommends, desktop-recommends
+  * Added ubuntu-sway-desktop to desktop-raspi
+  * Removed gnome-packagekit from desktop-raspi-recommends, desktop-
+    recommends
+  * Removed python-is-python3 from desktop, desktop-raspi
+  * Removed ubuntu-advantage-tools from minimal
+  * Removed waypipe from desktop-raspi-recommends, desktop-recommends
+  * Removed wayvnc from desktop-raspi-recommends, desktop-recommends
+  * Removed wlr-randr from desktop-raspi-recommends, desktop-recommends
+  * Moved rofi-wayland to desktop-raspi-recommends, desktop-recommends
+  * Moved system-config-printer to desktop-raspi-recommends, desktop-
+    recommends
+  * Moved xwayland to desktop-raspi-recommends, desktop-recommends
+
+ -- root <root@dd3d0cf78935>  Tue, 26 Mar 2024 09:39:24 +0000
+
 ubuntu-sway-meta (1.66~noble) noble; urgency=medium
 
   [ root ]
