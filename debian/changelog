@@ -1,3 +1,9 @@
+ubuntu-sway-meta (1.75~plucky) plucky; urgency=medium
+
+  * Plucky Puffin support
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Tue, 18 Mar 2025 14:20:48 +0400
+
 ubuntu-sway-meta (1.74~oracular) oracular; urgency=medium
 
   * Refreshed dependencies
