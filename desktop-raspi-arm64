@@ -3,7 +3,6 @@ alsa-base
 alsa-utils
 anacron
 autotiling
-azote
 bc
 bluez-obexd
 breeze-cursor-theme
@@ -33,7 +32,6 @@ gvfs-fuse
 inotify-tools
 inputattach
 iw
-kanshi
 language-selector-common
 libglib2.0-bin
 libraspberrypi-bin
@@ -47,7 +45,6 @@ network-manager
 nwg-bar
 nwg-clipman
 nwg-displays
-nwg-drawer
 nwg-look
 nwg-wrapper
 openprinting-ppds
@@ -79,7 +76,6 @@ swayr
 ubuntu-drivers-common
 ubuntu-raspi-settings
 ubuntu-sway-artwork
-ubuntu-sway-desktop
 ubuntu-sway-grub-theme
 ubuntu-sway-raspi-settings
 unzip

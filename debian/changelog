@@ -1,3 +1,63 @@
+ubuntu-sway-meta (1.75~pluckz) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added fastfetch to desktop-raspi-recommends, desktop-recommends
+  * Added libreoffice-help-en-us to live
+  * Added mpv to desktop-raspi-recommends [arm64], desktop-recommends
+    [arm64]
+  * Removed casper from live
+  * Removed discover from live
+  * Removed expect from live
+  * Removed gparted from live
+  * Removed hunspell-de-at-frami from live
+  * Removed hunspell-de-ch-frami from live
+  * Removed hunspell-de-de-frami from live
+  * Removed hunspell-en-au from live
+  * Removed hunspell-en-ca from live
+  * Removed hunspell-en-gb from live
+  * Removed hunspell-en-za from live
+  * Removed hunspell-es from live
+  * Removed hunspell-fr from live
+  * Removed hunspell-it from live
+  * Removed hunspell-pt-br from live
+  * Removed hunspell-pt-pt from live
+  * Removed hunspell-ru from live
+  * Removed kanshi from desktop, desktop-raspi
+  * Removed language-pack-de from live
+  * Removed language-pack-es from live
+  * Removed language-pack-fr from live
+  * Removed language-pack-gnome-de from live
+  * Removed language-pack-gnome-en from live
+  * Removed language-pack-gnome-es from live
+  * Removed language-pack-gnome-fr from live
+  * Removed language-pack-gnome-it from live
+  * Removed language-pack-gnome-pt from live
+  * Removed language-pack-gnome-ru from live
+  * Removed language-pack-gnome-zh-hans from live
+  * Removed language-pack-it from live
+  * Removed language-pack-pt from live
+  * Removed language-pack-ru from live
+  * Removed language-pack-zh-hans from live
+  * Removed musikcube from desktop-raspi-recommends, desktop-recommends
+  * Removed neofetch from desktop-raspi-recommends, desktop-recommends
+  * Removed nwg-drawer from desktop, desktop-raspi
+  * Removed os-prober from live
+  * Removed ubuntu-sway-desktop from desktop-raspi
+  * Removed vlc from desktop-raspi-recommends [arm64], desktop-
+    recommends [arm64]
+  * Removed wbrazilian from live
+  * Removed wbritish from live
+  * Removed wfrench from live
+  * Removed witalian from live
+  * Removed wngerman from live
+  * Removed wogerman from live
+  * Removed wportuguese from live
+  * Removed wspanish from live
+  * Removed wswiss from live
+  * Moved azote to desktop-raspi-recommends, desktop-recommends
+
+ -- root <root@344b1b4378a8>  Thu, 20 Mar 2025 13:22:51 +0000
+
 ubuntu-sway-meta (1.75~plucky) plucky; urgency=medium
 
   * Plucky Puffin support

@@ -2,6 +2,7 @@ apt-xapian-index
 audacious
 avahi-autoipd
 avahi-daemon
+azote
 bluetuith
 bluez
 bluez-cups
@@ -12,6 +13,7 @@ cups-filters
 desktop-file-utils
 drm-info
 engrampa
+fastfetch
 fonts-arphic-ukai
 fonts-arphic-uming
 fonts-liberation
@@ -47,8 +49,6 @@ mate-calc
 memtest86+
 mesa-utils
 mpv
-musikcube
-neofetch
 neovim
 packagekit
 pavucontrol
