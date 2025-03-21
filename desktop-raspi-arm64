@@ -34,7 +34,6 @@ inputattach
 iw
 language-selector-common
 libglib2.0-bin
-libraspberrypi-bin
 libsasl2-modules
 libu2f-udev
 mako-notifier
@@ -45,6 +44,7 @@ network-manager
 nwg-bar
 nwg-clipman
 nwg-displays
+nwg-drawer
 nwg-look
 nwg-wrapper
 openprinting-ppds
@@ -61,6 +61,7 @@ qt5ct
 qt6-wayland
 qt6ct
 qtwayland5
+raspi-utils
 rfkill
 rpi-eeprom
 slurp

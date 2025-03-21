@@ -1,4 +1,4 @@
-ubuntu-sway-meta (1.75~pluckz) UNRELEASED; urgency=medium
+ubuntu-sway-meta (1.75~plucla) UNRELEASED; urgency=medium
 
   * Refreshed dependencies
   * Added fastfetch to desktop-raspi-recommends, desktop-recommends
@@ -55,8 +55,17 @@ ubuntu-sway-meta (1.75~pluckz) UNRELEASED; urgency=medium
   * Removed wspanish from live
   * Removed wswiss from live
   * Moved azote to desktop-raspi-recommends, desktop-recommends
+  * Refreshed dependencies
+  * Added musikcube to desktop-raspi-recommends, desktop-recommends
+  * Added nwg-drawer to desktop, desktop-raspi
+  * Added raspi-utils to desktop-raspi [arm64]
+  * Added ubuntu-x13s-settings-nogrub to live [arm64]
+  * Added ubuntu-x1e-settings-nogrub to live [arm64]
+  * Removed apt-utils from minimal
+  * Removed libraspberrypi-bin from desktop-raspi [arm64]
+  * Removed mdadm from live
 
- -- root <root@344b1b4378a8>  Thu, 20 Mar 2025 13:22:51 +0000
+ -- root <root@6b40394e8b7a>  Fri, 21 Mar 2025 09:42:31 +0000
 
 ubuntu-sway-meta (1.75~plucky) plucky; urgency=medium
 
