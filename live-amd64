@@ -1,7 +1,11 @@
 btrfs-progs
 calamares-settings-ubuntu-sway
+casper
 cifs-utils
 cryptsetup
+discover
+expect
+gparted
 grub-pc
 hunspell-en-us
 jfsutils
@@ -9,6 +13,7 @@ language-pack-en
 libreoffice-help-en-us
 lvm2
 mokutil
+os-prober
 reiserfsprogs
 wamerican
 xfsprogs
