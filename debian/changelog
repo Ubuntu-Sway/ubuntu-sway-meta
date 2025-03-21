@@ -1,4 +1,10 @@
-ubuntu-sway-meta (1.75~plucla) UNRELEASED; urgency=medium
+ubuntu-sway-meta (1.77~plucky) plucky; urgency=medium
+
+  * Update platform
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Fri, 21 Mar 2025 13:58:16 +0400
+
+ubuntu-sway-meta (1.76~plucky) plucky; urgency=medium
 
   * Refreshed dependencies
   * Added fastfetch to desktop-raspi-recommends, desktop-recommends
