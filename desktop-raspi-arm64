@@ -27,6 +27,7 @@ gstreamer1.0-pipewire
 gstreamer1.0-plugins-base
 gstreamer1.0-plugins-base-apps
 gstreamer1.0-plugins-good
+gtklock
 gvfs-backends
 gvfs-fuse
 inotify-tools
@@ -72,7 +73,6 @@ sway-input-config
 sway-systemd
 swaybg
 swayidle
-swaylock
 swayr
 ubuntu-drivers-common
 ubuntu-raspi-settings
@@ -85,8 +85,10 @@ usb-modeswitch
 waybar
 wf-recorder
 wl-clipboard
+wl-mirror
 wlsunset
 wpasupplicant
+wtype
 wvdial
 xdg-desktop-portal-gtk
 xdg-desktop-portal-wlr

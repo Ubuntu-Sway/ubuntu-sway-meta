@@ -1,3 +1,13 @@
+ubuntu-sway-meta (1.78~pluckz) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added gtklock to desktop, desktop-raspi
+  * Added wl-mirror to desktop, desktop-raspi
+  * Added wtype to desktop, desktop-raspi
+  * Removed swaylock from desktop, desktop-raspi
+
+ -- root <root@991a26c8b6e7>  Thu, 03 Apr 2025 08:57:49 +0000
+
 ubuntu-sway-meta (1.78~plucky) plucky; urgency=medium
 
   [ root ]
