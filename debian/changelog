@@ -1,5 +1,6 @@
-ubuntu-sway-meta (1.80~pluckz) UNRELEASED; urgency=medium
+ubuntu-sway-meta (1.81~plucky) plucky; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Added firefox to desktop-raspi-recommends, desktop-recommends
   * Added qutebrowser to desktop-raspi-recommends, desktop-recommends
@@ -9,7 +10,10 @@ ubuntu-sway-meta (1.80~pluckz) UNRELEASED; urgency=medium
   * Added wofi to desktop-raspi-recommends, desktop-recommends
   * Removed fuzzel from desktop-raspi-recommends, desktop-recommends
 
- -- root <root@41fd0c744c5f>  Thu, 10 Apr 2025 09:13:45 +0000
+  [ Aleksey Samoilov ]
+  * Update packages
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Thu, 10 Apr 2025 13:20:41 +0400
 
 ubuntu-sway-meta (1.80~plucky) plucky; urgency=medium
 
