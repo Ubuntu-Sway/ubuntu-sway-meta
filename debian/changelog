@@ -1,3 +1,16 @@
+ubuntu-sway-meta (1.80~pluckz) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added firefox to desktop-raspi-recommends, desktop-recommends
+  * Added qutebrowser to desktop-raspi-recommends, desktop-recommends
+  * Added thunderbird to desktop-raspi-recommends, desktop-recommends
+  * Added transmission-gtk to desktop-raspi-recommends, desktop-
+    recommends
+  * Added wofi to desktop-raspi-recommends, desktop-recommends
+  * Removed fuzzel from desktop-raspi-recommends, desktop-recommends
+
+ -- root <root@41fd0c744c5f>  Thu, 10 Apr 2025 09:13:45 +0000
+
 ubuntu-sway-meta (1.80~plucky) plucky; urgency=medium
 
   * Refreshed dependencies

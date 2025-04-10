@@ -14,6 +14,7 @@ desktop-file-utils
 drm-info
 engrampa
 fastfetch
+firefox
 fonts-arphic-ukai
 fonts-arphic-uming
 fonts-liberation
@@ -24,7 +25,6 @@ fonts-noto-core
 fonts-opensymbol
 fonts-ubuntu
 foot
-fuzzel
 fwupd
 fwupd-signed
 gamemode
@@ -68,6 +68,7 @@ printer-driver-ptouch
 printer-driver-pxljr
 printer-driver-sag-gdi
 printer-driver-splix
+qutebrowser
 ranger
 simple-scan
 snapd
@@ -75,7 +76,9 @@ software-properties-gtk
 system-config-printer
 systemd-oomd
 thermald
+thunderbird
 tlp
+transmission-gtk
 tuigreet
 ubuntu-sway-default-settings
 ubuntu-sway-welcome
@@ -86,6 +89,7 @@ usb-creator-gtk
 vulkan-tools
 wayland-utils
 wev
+wofi
 xdg-utils
 xwayland
 zathura
