@@ -1,3 +1,13 @@
+ubuntu-sway-meta (1.81~pluckz) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added power-profiles-daemon to desktop-raspi-recommends [amd64],
+    desktop-recommends [amd64]
+  * Removed tlp from desktop-raspi-recommends [amd64], desktop-
+    recommends [amd64]
+
+ -- root <root@e79398b0714d>  Fri, 18 Apr 2025 15:18:13 +0000
+
 ubuntu-sway-meta (1.81~plucky) plucky; urgency=medium
 
   [ root ]

@@ -58,6 +58,7 @@ pcmciautils
 plocate
 pluma
 policykit-desktop-privileges
+power-profiles-daemon
 ppa-purge
 printer-driver-brlaser
 printer-driver-c2esp
@@ -77,7 +78,6 @@ system-config-printer
 systemd-oomd
 thermald
 thunderbird
-tlp
 transmission-gtk
 tuigreet
 ubuntu-sway-default-settings
