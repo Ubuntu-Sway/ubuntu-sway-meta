@@ -1,12 +1,16 @@
-ubuntu-sway-meta (1.81~pluckz) UNRELEASED; urgency=medium
+ubuntu-sway-meta (1.82~plucky) plucky; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Added power-profiles-daemon to desktop-raspi-recommends [amd64],
     desktop-recommends [amd64]
   * Removed tlp from desktop-raspi-recommends [amd64], desktop-
     recommends [amd64]
 
- -- root <root@e79398b0714d>  Fri, 18 Apr 2025 15:18:13 +0000
+  [ Aleksey Samoilov ]
+  * Update changelog
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Fri, 18 Apr 2025 19:24:09 +0400
 
 ubuntu-sway-meta (1.81~plucky) plucky; urgency=medium
 
