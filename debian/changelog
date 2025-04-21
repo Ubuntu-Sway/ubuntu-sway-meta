@@ -1,3 +1,10 @@
+ubuntu-sway-meta (1.82~pluckz) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Removed breeze-cursor-theme from desktop, desktop-raspi
+
+ -- root <root@e30149922620>  Mon, 21 Apr 2025 15:57:19 +0000
+
 ubuntu-sway-meta (1.82~plucky) plucky; urgency=medium
 
   [ root ]
