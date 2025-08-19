@@ -1,3 +1,31 @@
+ubuntu-sway-meta (1.83~pluckz) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added swaykbdd to desktop, desktop-raspi
+  * Removed apt-xapian-index from desktop-raspi-recommends, desktop-
+    recommends
+  * Removed bluetuith from desktop-raspi-recommends, desktop-recommends
+  * Removed fonts-font-awesome-6 from desktop, desktop-raspi
+  * Removed musikcube from desktop-raspi-recommends, desktop-recommends
+  * Removed nwg-drawer from desktop, desktop-raspi
+  * Removed nwg-wrapper from desktop, desktop-raspi
+  * Removed plymouth-theme-ubuntu-sway-logo from desktop, desktop-raspi
+  * Removed plymouth-theme-ubuntu-sway-text from desktop, desktop-raspi
+  * Removed qt5ct from desktop, desktop-raspi
+  * Removed sway-input-config from desktop, desktop-raspi
+  * Removed sway-systemd from desktop, desktop-raspi
+  * Removed swayr from desktop, desktop-raspi
+  * Removed ubuntu-sway-artwork from desktop, desktop-raspi
+  * Removed ubuntu-sway-default-settings from desktop-raspi-recommends
+    [amd64], desktop-recommends [amd64]
+  * Removed ubuntu-sway-desktop from desktop-raspi
+  * Removed ubuntu-sway-grub-theme from desktop, desktop-raspi
+  * Removed ubuntu-sway-raspi-settings from desktop-raspi [arm64]
+  * Removed ubuntu-sway-welcome from desktop-raspi-recommends [amd64],
+    desktop-recommends [amd64]
+
+ -- root <root@953650bb9872>  Tue, 19 Aug 2025 06:58:56 +0000
+
 ubuntu-sway-meta (1.83~plucky) plucky; urgency=medium
 
   [ root ]

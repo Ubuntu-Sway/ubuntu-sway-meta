@@ -1,9 +1,7 @@
-apt-xapian-index
 audacious
 avahi-autoipd
 avahi-daemon
 azote
-bluetuith
 bluez
 bluez-cups
 cups
@@ -47,7 +45,6 @@ lximage-qt
 mate-calc
 mesa-utils
 mpv
-musikcube
 neovim
 packagekit
 pavucontrol
