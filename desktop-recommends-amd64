@@ -2,6 +2,7 @@ audacious
 avahi-autoipd
 avahi-daemon
 azote
+bluetuith
 bluez
 bluez-cups
 cups
@@ -47,6 +48,7 @@ mate-calc
 memtest86+
 mesa-utils
 mpv
+musikcube
 neovim
 packagekit
 pavucontrol
@@ -77,6 +79,8 @@ thermald
 thunderbird
 transmission-gtk
 tuigreet
+ubuntu-sway-default-settings
+ubuntu-sway-welcome
 udisks2
 update-notifier
 upower
