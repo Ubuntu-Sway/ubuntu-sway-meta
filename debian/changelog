@@ -1,3 +1,10 @@
+ubuntu-sway-meta (1.83~pluckz) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added dracut to desktop-raspi-recommends, desktop-recommends
+
+ -- root <root@2aa9f69fb0f9>  Thu, 11 Sep 2025 19:25:14 +0000
+
 ubuntu-sway-meta (1.83~plucky) plucky; urgency=medium
 
   [ root ]
