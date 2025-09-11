@@ -1,10 +1,14 @@
-ubuntu-sway-meta (1.84~questinh) UNRELEASED; urgency=medium
+ubuntu-sway-meta (1.85~questing) questing; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Added dracut to desktop-raspi-recommends, desktop-recommends
   * Added ubuntu-sway-desktop to desktop-raspi
 
- -- root <root@53d76b475bbd>  Thu, 11 Sep 2025 19:29:49 +0000
+  [ Aleksey Samoilov ]
+  * Update dependencies
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Thu, 11 Sep 2025 23:30:41 +0400
 
 ubuntu-sway-meta (1.84~questing) questing; urgency=medium
 
