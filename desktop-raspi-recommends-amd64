@@ -10,6 +10,7 @@ cups-bsd
 cups-client
 cups-filters
 desktop-file-utils
+dracut
 drm-info
 engrampa
 fastfetch
