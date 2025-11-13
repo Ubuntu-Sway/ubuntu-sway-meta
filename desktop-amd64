@@ -33,7 +33,6 @@ iw
 language-selector-common
 libglib2.0-bin
 libsasl2-modules
-libu2f-udev
 mako-notifier
 mate-polkit-bin
 mobile-broadband-provider-info

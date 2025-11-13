@@ -1,3 +1,16 @@
+ubuntu-sway-meta (1.86~questing) questing; urgency=medium
+
+  * Refreshed dependencies
+  * Removed libu2f-udev from desktop, desktop-raspi
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Thu, 13 Nov 2025 16:37:52 +0400
+
+ubuntu-sway-meta (1.86~questing) questing; urgency=medium
+
+  * Remove libu2f-udev
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Thu, 13 Nov 2025 16:29:41 +0400
+
 ubuntu-sway-meta (1.85~questing) questing; urgency=medium
 
   [ root ]
