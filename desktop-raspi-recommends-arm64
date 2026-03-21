@@ -1,3 +1,4 @@
+apt-xapian-index
 audacious
 avahi-autoipd
 avahi-daemon
@@ -5,6 +6,7 @@ azote
 bluetuith
 bluez
 bluez-cups
+calcurse
 cups
 cups-bsd
 cups-client
@@ -31,6 +33,8 @@ gnome-firmware
 gnome-software
 go-mtpfs
 greetd
+grimshot
+gtklock
 hplip
 htop
 imv
@@ -44,11 +48,16 @@ libreoffice-impress
 libreoffice-style-yaru
 libreoffice-writer
 lximage-qt
+mako-notifier
 mate-calc
 mesa-utils
 mpv
-musikcube
 neovim
+nwg-bar
+nwg-clipman
+nwg-displays
+nwg-drawer
+nwg-look
 packagekit
 pavucontrol
 pcmanfm
@@ -66,11 +75,13 @@ printer-driver-ptouch
 printer-driver-pxljr
 printer-driver-sag-gdi
 printer-driver-splix
+qt6ct
 qutebrowser
 ranger
 simple-scan
 snapd
 software-properties-gtk
+sway-input-config
 system-config-printer
 systemd-oomd
 thunderbird
@@ -81,6 +92,7 @@ update-notifier
 upower
 usb-creator-gtk
 vulkan-tools
+waybar
 wayland-utils
 wev
 wofi

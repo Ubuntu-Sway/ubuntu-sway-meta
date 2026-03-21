@@ -1,3 +1,29 @@
+ubuntu-sway-meta (1.86~questinh) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added apt-xapian-index to desktop-raspi-recommends, desktop-
+    recommends
+  * Added bsdutils to minimal
+  * Removed musikcube from desktop-raspi-recommends, desktop-recommends
+  * Removed nwg-wrapper from desktop, desktop-raspi
+  * Removed reiserfsprogs from live
+  * Removed ubuntu-sway-desktop from desktop-raspi
+  * Moved calcurse to desktop-raspi-recommends, desktop-recommends
+  * Moved grimshot to desktop-raspi-recommends, desktop-recommends
+  * Moved gtklock to desktop-raspi-recommends, desktop-recommends
+  * Moved mako-notifier to desktop-raspi-recommends, desktop-recommends
+  * Moved nwg-bar to desktop-raspi-recommends, desktop-recommends
+  * Moved nwg-clipman to desktop-raspi-recommends, desktop-recommends
+  * Moved nwg-displays to desktop-raspi-recommends, desktop-recommends
+  * Moved nwg-drawer to desktop-raspi-recommends, desktop-recommends
+  * Moved nwg-look to desktop-raspi-recommends, desktop-recommends
+  * Moved qt6ct to desktop-raspi-recommends, desktop-recommends
+  * Moved sway-input-config to desktop-raspi-recommends, desktop-
+    recommends
+  * Moved waybar to desktop-raspi-recommends, desktop-recommends
+
+ -- root <root@cf42e68ed145>  Sat, 21 Mar 2026 13:02:15 +0000
+
 ubuntu-sway-meta (1.86~questing) questing; urgency=medium
 
   * Refreshed dependencies
