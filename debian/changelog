@@ -1,4 +1,4 @@
-ubuntu-sway-meta (1.86~questinh) UNRELEASED; urgency=medium
+ubuntu-sway-meta (1.86~questini) UNRELEASED; urgency=medium
 
   * Refreshed dependencies
   * Added apt-xapian-index to desktop-raspi-recommends, desktop-
@@ -21,8 +21,14 @@ ubuntu-sway-meta (1.86~questinh) UNRELEASED; urgency=medium
   * Moved sway-input-config to desktop-raspi-recommends, desktop-
     recommends
   * Moved waybar to desktop-raspi-recommends, desktop-recommends
+  * Refreshed dependencies
+  * Added chrony | time-daemon to minimal
+  * Added flash-kernel-piboot to desktop-raspi [arm64]
+  * Added musikcube to desktop-raspi-recommends, desktop-recommends
+  * Added nwg-wrapper to desktop-raspi-recommends, desktop-recommends
+  * Added sudo-rs to minimal
 
- -- root <root@cf42e68ed145>  Sat, 21 Mar 2026 13:02:15 +0000
+ -- root <root@10f934941eb5>  Sun, 22 Mar 2026 08:29:27 +0000
 
 ubuntu-sway-meta (1.86~questing) questing; urgency=medium
 

@@ -1,6 +1,7 @@
 adduser
 apt
 bsdutils
+chrony | time-daemon
 console-setup
 debconf
 debconf-i18n
@@ -26,6 +27,7 @@ procps
 python3
 sensible-utils
 sudo
+sudo-rs
 tzdata
 ubuntu-keyring
 ubuntu-minimal

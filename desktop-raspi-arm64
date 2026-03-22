@@ -11,6 +11,7 @@ cliphist
 cloud-initramfs-growroot
 curl
 flash-kernel
+flash-kernel-piboot
 fontconfig
 fonts-dejavu-core
 fonts-font-awesome
