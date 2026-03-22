@@ -1,5 +1,6 @@
-ubuntu-sway-meta (1.86~questini) UNRELEASED; urgency=medium
+ubuntu-sway-meta (1.87~resolute) resolute; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Added apt-xapian-index to desktop-raspi-recommends, desktop-
     recommends
@@ -28,7 +29,10 @@ ubuntu-sway-meta (1.86~questini) UNRELEASED; urgency=medium
   * Added nwg-wrapper to desktop-raspi-recommends, desktop-recommends
   * Added sudo-rs to minimal
 
- -- root <root@10f934941eb5>  Sun, 22 Mar 2026 08:29:27 +0000
+  [ Aleksey Samoilov ]
+  * Update changelog
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sun, 22 Mar 2026 12:30:11 +0400
 
 ubuntu-sway-meta (1.86~questing) questing; urgency=medium
 
