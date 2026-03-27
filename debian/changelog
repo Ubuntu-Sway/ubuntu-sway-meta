@@ -1,3 +1,12 @@
+ubuntu-sway-meta (1.87~resolutf) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added ubuntu-sway-default-settings to desktop-raspi-recommends
+    [arm64], desktop-recommends [arm64]
+  * Added ubuntu-sway-desktop to desktop-raspi
+
+ -- root <root@42156a7b0645>  Fri, 27 Mar 2026 19:21:36 +0000
+
 ubuntu-sway-meta (1.87~resolute) resolute; urgency=medium
 
   [ root ]
