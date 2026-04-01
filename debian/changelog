@@ -1,4 +1,4 @@
-ubuntu-sway-meta (1.88~resolutf) UNRELEASED; urgency=medium
+ubuntu-sway-meta (1.89~resolute) resolute; urgency=medium
 
   * Refreshed dependencies
   * Removed snapd from desktop-raspi-recommends, desktop-recommends
