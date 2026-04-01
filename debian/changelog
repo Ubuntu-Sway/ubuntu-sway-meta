@@ -1,3 +1,12 @@
+ubuntu-sway-meta (1.88~resolutf) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Removed snapd from desktop-raspi-recommends, desktop-recommends
+  * Removed thunderbird from desktop-raspi-recommends, desktop-
+    recommends
+
+ -- root <root@2cf1fb1ec52d>  Wed, 01 Apr 2026 16:11:01 +0000
+
 ubuntu-sway-meta (1.88~resolute) resolute; urgency=medium
 
   [ root ]
