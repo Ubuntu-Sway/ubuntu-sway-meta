@@ -1,5 +1,4 @@
 apt-xapian-index
-audacious
 avahi-autoipd
 avahi-daemon
 azote
@@ -14,7 +13,6 @@ cups-filters
 desktop-file-utils
 dracut
 drm-info
-engrampa
 fastfetch
 firefox
 fonts-arphic-ukai
@@ -48,7 +46,6 @@ libreoffice-gtk3
 libreoffice-impress
 libreoffice-style-yaru
 libreoffice-writer
-lximage-qt
 mako-notifier
 mate-calc
 memtest86+
@@ -64,7 +61,6 @@ nwg-look
 nwg-wrapper
 packagekit
 pavucontrol
-pcmanfm
 pcmciautils
 plocate
 pluma
@@ -83,12 +79,17 @@ printer-driver-splix
 qt6ct
 qutebrowser
 ranger
+ristretto
 simple-scan
+slurp
 software-properties-gtk
+swappy
 sway-input-config
+swayr
 system-config-printer
 systemd-oomd
 thermald
+thunar
 transmission-gtk
 tuigreet
 ubuntu-sway-default-settings
@@ -101,7 +102,10 @@ vulkan-tools
 waybar
 wayland-utils
 wev
+wlsunset
 wofi
+wtype
+xarchiver
 xdg-utils
 xwayland
 zathura

@@ -1,3 +1,25 @@
+ubuntu-sway-meta (1.89~resolutf) UNRELEASED; urgency=medium
+
+  * Refreshed dependencies
+  * Added poweralertd to desktop [arm64], desktop-raspi [arm64]
+  * Added ristretto to desktop-raspi-recommends, desktop-recommends
+  * Added thunar to desktop-raspi-recommends, desktop-recommends
+  * Added xarchiver to desktop-raspi-recommends, desktop-recommends
+  * Added xfce-polkit to desktop, desktop-raspi
+  * Removed audacious from desktop-raspi-recommends, desktop-recommends
+  * Removed engrampa from desktop-raspi-recommends, desktop-recommends
+  * Removed lximage-qt from desktop-raspi-recommends, desktop-recommends
+  * Removed mate-polkit-bin from desktop, desktop-raspi
+  * Removed pcmanfm from desktop-raspi-recommends, desktop-recommends
+  * Removed qtwayland5 from desktop, desktop-raspi
+  * Moved slurp to desktop-raspi-recommends, desktop-recommends
+  * Moved swappy to desktop-raspi-recommends, desktop-recommends
+  * Moved swayr to desktop-raspi-recommends, desktop-recommends
+  * Moved wlsunset to desktop-raspi-recommends, desktop-recommends
+  * Moved wtype to desktop-raspi-recommends, desktop-recommends
+
+ -- root <root@99954c42d39e>  Thu, 09 Apr 2026 18:43:27 +0000
+
 ubuntu-sway-meta (1.89~resolute) resolute; urgency=medium
 
   * Refreshed dependencies
