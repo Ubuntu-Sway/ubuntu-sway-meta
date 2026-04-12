@@ -57,6 +57,7 @@ sway-systemd
 swaybg
 swayidle
 swaykbdd
+swayosd
 ubuntu-drivers-common
 ubuntu-raspi-settings
 ubuntu-sway-artwork

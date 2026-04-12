@@ -52,6 +52,7 @@ sway-systemd
 swaybg
 swayidle
 swaykbdd
+swayosd
 ubuntu-drivers-common
 ubuntu-sway-artwork
 ubuntu-sway-grub-theme
