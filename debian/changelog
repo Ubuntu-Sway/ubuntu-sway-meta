@@ -1,9 +1,13 @@
-ubuntu-sway-meta (1.91~resolutf) UNRELEASED; urgency=medium
+ubuntu-sway-meta (1.92~resolute) unstable; urgency=medium
 
+  [ root ]
   * Refreshed dependencies
   * Added swayosd to desktop, desktop-raspi
 
- -- root <root@c9e420a166fb>  Sun, 12 Apr 2026 19:06:09 +0000
+  [ Aleksey Samoilov ]
+  * Update changelog
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sun, 12 Apr 2026 23:18:27 +0400
 
 ubuntu-sway-meta (1.91~resolute) resolute; urgency=medium
 
